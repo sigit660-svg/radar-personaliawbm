@@ -1,0 +1,686 @@
+{
+ "reg": [
+  {
+   "berlaku": "1 Januari 2026",
+   "dampakHR": [
+    "Pastikan upah pokok + tunjangan tetap pekerja <1 tahun minimal sebesar UMK lokasi kerja.",
+    "Cek apakah sektor usaha perusahaan termasuk dalam UMSK Jatim 2026."
+   ],
+   "diperbarui": "2026-10-15",
+   "jenis": "Keputusan Gubernur",
+   "judul": "Keputusan Gubernur Jatim tentang UMK 2026",
+   "lingkup": "Jawa Timur",
+   "nomor": "Kepgub Jatim No. 100.3.3.1/937/013/2025",
+   "prioritas": "rendah",
+   "ringkasan": "UMK 38 kabupaten/kota naik rata-rata 6,09%. Contoh: Surabaya Rp5.288.796, Gresik Rp5.195.401, Tuban Rp3.229.092, terendah Situbondo Rp2.483.962. UMK berlaku untuk pekerja masa kerja <1 tahun dan pengusaha dilarang menurunkan upah yang sudah di atas UMK. UMSK ditetapkan terpisah lewat Kepgub No. 100.3.3.1/938/013/2025.",
+   "status": "Berlaku",
+   "sumber": [
+    {
+     "judul": "Bisnis – Daftar UMK Jatim 2026",
+     "url": "https://ekonomi.bisnis.com/read/20251228/12/1939941/daftar-umk-jatim-2026-di-38-kabupaten-kota-surabaya-tertinggi"
+    },
+    {
+     "judul": "Kabar24 – UMP & UMK se-Jawa 2026",
+     "url": "https://kabar24.bisnis.com/read/20251225/15/1939588/perbandingan-ump-dan-umk-se-jawa-2026-diy-masih-terendah/2"
+    },
+    {
+     "judul": "Metro TV – Daftar UMK Jatim",
+     "url": "https://www.metrotvnews.com/read/NrWC8XWl-khofifah-tetapkan-umk-kabupaten-kota-se-jatim-ini-daftar-nominalnya"
+    }
+   ],
+   "tag": [
+    "UMK",
+    "Tuban",
+    "Gresik",
+    "Surabaya",
+    "UMSK"
+   ],
+   "tanggal": "2025-12-24",
+   "id": "kepgub-jatim-umk-2026"
+  },
+  {
+   "berlaku": "3 Juli 2026",
+   "dampakHR": [
+    "Pastikan akun SIAPkerja perusahaan aktif dan data wajib lapor ketenagakerjaan mutakhir.",
+    "Siapkan berkas kepatuhan untuk pemeriksaan: PP/PKB, daftar upah, BPJS, waktu kerja/lembur, PKWT.",
+    "Tetapkan PIC yang menindaklanjuti nota pemeriksaan sesuai tenggat."
+   ],
+   "diperbarui": "2026-10-15",
+   "jenis": "Permenaker",
+   "judul": "Permenaker tentang Tata Cara Pengawasan Ketenagakerjaan",
+   "lingkup": "Nasional",
+   "nomor": "Permenaker No. 11 Tahun 2026",
+   "prioritas": "sedang",
+   "ringkasan": "Menggantikan Permenaker 33/2016 jo. 1/2020. Pelaporan dan proses pengawasan didigitalisasi lewat platform SIAPkerja, dan penindakan pelanggaran diintegrasikan ke tahapan penegakan hukum non-yustisial.",
+   "status": "Berlaku",
+   "sumber": [
+    {
+     "judul": "SW Indonesia – Ulasan Permenaker 11/2026",
+     "url": "https://sw-indonesia.com/wawasan/hukum/permenaker-no-11-tahun-2026-pengaturan-baru-mengenai-tata-cara-pengawasan-ketenagakerjaan/"
+    }
+   ],
+   "tag": [
+    "pengawasan",
+    "SIAPkerja",
+    "pemeriksaan"
+   ],
+   "tanggal": "2026-07-03",
+   "id": "permenaker-11-2026"
+  },
+  {
+   "berlaku": "Sejak diundangkan, 28 Oktober 2026",
+   "dampakHR": [
+    "Cocokkan upah yang dilaporkan ke BPJS Ketenagakerjaan dengan payroll; upah yang dilaporkan terlalu rendah atau terlalu tinggi bisa membuat karyawan salah masuk/tidak masuk daftar.",
+    "Tarik daftar karyawan dengan upah ≤ Rp3,5 juta (UMK Tuban 2026 Rp3.229.092 berada di bawah batas) sebagai perkiraan calon penerima.",
+    "Pastikan seluruh karyawan, termasuk PKWT dan magang yang wajib didaftarkan, berstatus aktif dan iurannya lancar per Agustus 2026.",
+    "Siapkan jawaban standar untuk pertanyaan karyawan dan arahkan pengecekan ke situs resmi bsu.kemnaker.go.id, bukan tautan dari pesan berantai.",
+    "Jangan memotong atau menahan BSU; dana ditransfer langsung ke rekening/kanal penerima."
+   ],
+   "diperbarui": "2026-11-02",
+   "jenis": "Permenaker",
+   "judul": "Permenaker tentang Pedoman Pemberian Bantuan Subsidi Upah (BSU) 2026",
+   "lingkup": "Nasional",
+   "nomor": "Permenaker No. 16 Tahun 2026 (perubahan kedua atas Permenaker 10/2022)",
+   "prioritas": "sedang",
+   "ringkasan": "Pemerintah kembali menyalurkan BSU 2026 sebesar Rp300 ribu per bulan selama 3 bulan, dibayar sekaligus Rp900 ribu. Syaratnya WNI ber-NIK, peserta aktif BPJS Ketenagakerjaan sampai Agustus 2026, dan upah paling banyak Rp3,5 juta (atau setara UMP/UMK bila UMK di atas Rp3,5 juta, dibulatkan ke atas). Acuannya upah terakhir yang dilaporkan pemberi kerja ke BPJS Ketenagakerjaan (upah pokok + tunjangan tetap). ASN, TNI, dan Polri dikecualikan. Jadwal pencairan resmi belum terkonfirmasi; informasi diarahkan ke bsu.kemnaker.go.id.",
+   "status": "Berlaku",
+   "sumber": [
+    {
+     "judul": "Lintas Tungkal – Kemnaker terbitkan Permenaker BSU 2026",
+     "url": "https://lintastungkal.com/kemnaker-terbitkan-permenaker-tentang-bsu-2026-ini-persyaratan-penerimanya/"
+    },
+    {
+     "judul": "RCTI+/Okezone – Aturan terbaru & syarat BSU 2026 (31 Okt)",
+     "url": "https://www.rctiplus.com/news/detail/ekonomi/5505627/aturan-terbaru-dan-syarat-lengkap-penerima-bsu-2026-rp900-000"
+    }
+   ],
+   "tag": [
+    "BSU",
+    "subsidi upah",
+    "BPJS Ketenagakerjaan",
+    "data upah"
+   ],
+   "tanggal": "2026-10-28",
+   "id": "permenaker-16-2026"
+  },
+  {
+   "berlaku": "30 April 2026. Perjanjian alih daya yang sudah ada wajib menyesuaikan paling lambat 2 tahun sejak diundangkan.",
+   "dampakHR": [
+    "Audit semua kontrak vendor: apakah pekerjaan yang dialihdayakan masuk 6 bidang. Pekerjaan produksi/inti yang masih di-outsource perlu rencana pengalihan.",
+    "Perbarui perjanjian alih daya agar memuat hak pekerja: upah, lembur, waktu kerja, cuti, K3, BPJS, THR, dan hak saat PHK.",
+    "Cek perizinan dan pencatatan perjanjian vendor alih daya.",
+    "Susun jadwal penyesuaian sebelum batas transisi (±30 April 2028), dengan asumsi aturan bisa makin ketat setelah UU baru berlaku."
+   ],
+   "diperbarui": "2026-10-15",
+   "jenis": "Permenaker",
+   "judul": "Permenaker tentang Pekerjaan Alih Daya",
+   "lingkup": "Nasional",
+   "nomor": "Permenaker No. 7 Tahun 2026",
+   "prioritas": "tinggi",
+   "ringkasan": "Membatasi alih daya pada 6 bidang penunjang: kebersihan, penyediaan makan-minum, pengamanan, pengemudi/angkutan pekerja, layanan penunjang operasional, dan penunjang tambang/migas/ketenagalistrikan. Perjanjian alih daya wajib tertulis dan memuat hak pekerja; pemberi pekerjaan ikut bertanggung jawab memastikan hak pekerja alih daya terpenuhi; ada sanksi administratif. Serikat menuntut revisi (usulan 4 bidang) dan UU Pelindungan Ketenagakerjaan disebut membatasi menjadi 5 bidang; terbitnya revisi belum terkonfirmasi.",
+   "status": "Berlaku",
+   "sumber": [
+    {
+     "judul": "JDIH BPK – Permenaker 7/2026",
+     "url": "https://peraturan.bpk.go.id/Details/348708/permenaker-no-7-tahun-2026"
+    },
+    {
+     "judul": "JDIH Kemnaker – Permenaker 7/2026",
+     "url": "https://jdih.kemnaker.go.id/peraturan/detail/3027/peraturan-menteri-ketenagakerjaan-nomor-7-tahun-2026"
+    },
+    {
+     "judul": "Kompas.id – Revisi Permenaker outsourcing",
+     "url": "https://www.kompas.id/artikel/revisi-permenaker-outsourcing-ditargetkan-selesai-akhir-juli-2026"
+    },
+    {
+     "judul": "Hukumonline – UU baru ubah aturan outsourcing",
+     "url": "https://www.hukumonline.com/berita/a/uu-pelindungan-ketenagakerjaan-ubah-aturan-outsourcing--jenis-pekerjaan-penunjang-diperketat-lt6ac85761d6266/"
+    }
+   ],
+   "tag": [
+    "outsourcing",
+    "alih daya",
+    "vendor"
+   ],
+   "tanggal": "2026-04-30",
+   "id": "permenaker-7-2026"
+  },
+  {
+   "berlaku": "Dasar penetapan upah minimum 2026. Untuk upah minimum 2027 pernyataan pemerintah belum seragam (lihat ringkasan).",
+   "dampakHR": [
+    "Siapkan skenario anggaran kenaikan UMK 2027 (misalnya 5%, 7,5%, dan 9,5%) karena formula dan alfa belum pasti.",
+    "Tinjau struktur & skala upah untuk pekerja masa kerja ≥1 tahun agar selisih dengan UMK baru tetap proporsional.",
+    "Tunda finalisasi anggaran upah 2027 sampai ada Permenaker/SE Menaker tentang penetapan upah minimum 2027."
+   ],
+   "diperbarui": "2026-11-02",
+   "jenis": "PP",
+   "judul": "PP tentang Pengupahan",
+   "lingkup": "Nasional",
+   "nomor": "PP No. 49 Tahun 2025",
+   "prioritas": "sedang",
+   "ringkasan": "Formula upah minimum: inflasi + (alfa × pertumbuhan ekonomi), dengan rentang alfa 0,5–0,9. Pada 21–23 Oktober 2026 Menaker menyatakan poin penetapan upah minimum 2027 mengikuti UU Pelindungan Ketenagakerjaan, termasuk estimasi KHL, sementara sebagian penjelasan Kemnaker masih merujuk PP ini. Pada 27 Oktober Menaker menargetkan pembahasan internal rampung pekan terakhir November 2026, lalu berjenjang ke Depenas dan dewan pengupahan daerah; pemerintah akan menilai rekomendasi LKS Tripnas untuk memutuskan perlu tidaknya aturan baru. Dasar hukum final untuk UMP/UMK 2027 belum terkonfirmasi.",
+   "status": "Berlaku",
+   "sumber": [
+    {
+     "judul": "Katadata – UM 2027 masih mengacu PP",
+     "url": "https://katadata.co.id/berita/nasional/6ac4aed0a235f/kemenaker-upah-minimum-2027-masih-mengacu-pp-bukan-uu-ketenagakerjaan-terbaru"
+    },
+    {
+     "judul": "Liputan6 – Kemnaker: UM 2027 ikut PP 49/2025 (21 Okt)",
+     "url": "https://www.liputan6.com/bisnis/read/8318370/buruh-minta-umr-2027-naik-95-kemnaker-beri-penjelasan"
+    },
+    {
+     "judul": "Bisnis – Menaker: formula UMP 2027 mengacu UU baru (22 Okt)",
+     "url": "https://ekonomi.bisnis.com/read/20261022/12/2014674/menaker-sebut-formula-ump-2027-mengacu-uu-ketenagakerjaan-yang-baru"
+    },
+    {
+     "judul": "Katadata – Menaker target pembahasan internal tuntas November (27 Okt)",
+     "url": "https://katadata.co.id/berita/nasional/6ae076253350b/ump-2027-mulai-bergulir-menaker-target-pembahasan-internal-tuntas-november"
+    }
+   ],
+   "tag": [
+    "upah minimum",
+    "UMP",
+    "UMK",
+    "alfa"
+   ],
+   "tanggal": "",
+   "id": "pp-49-2025"
+  },
+  {
+   "berlaku": "31 Oktober 2024",
+   "dampakHR": [
+    "Menjadi latar belakang aturan baru; sebagai rujukan saat menjelaskan perubahan kebijakan ke karyawan dan serikat."
+   ],
+   "diperbarui": "2026-10-15",
+   "jenis": "Putusan MK",
+   "judul": "Putusan MK atas uji materi klaster ketenagakerjaan UU Cipta Kerja",
+   "lingkup": "Nasional",
+   "nomor": "Putusan MK No. 168/PUU-XXI/2023",
+   "prioritas": "rendah",
+   "ringkasan": "MK memerintahkan pembentukan UU ketenagakerjaan baru terpisah dari UU Cipta Kerja dalam 2 tahun, serta menjadi dasar pembatasan outsourcing dan masuknya KHL dalam pengupahan. Amanat ini dijawab dengan pengesahan UU Pelindungan Ketenagakerjaan pada 6 Oktober 2026.",
+   "status": "Berlaku",
+   "sumber": [
+    {
+     "judul": "Kompas TV – DPR sahkan RUU",
+     "url": "https://www.kompas.tv/nasional/694410/dpr-sahkan-ruu-perlindungan-ketenagakerjaan-jadi-undang-undang"
+    },
+    {
+     "judul": "Investor.id – Konteks putusan MK",
+     "url": "https://investor.id/macroeconomy/455853/ruu-pelindungan-ketenagakerjaan-akan-disahkan-6-oktober-2026"
+    }
+   ],
+   "tag": [
+    "MK",
+    "Cipta Kerja",
+    "KHL"
+   ],
+   "tanggal": "2024-10-31",
+   "id": "putusan-mk-168-2023"
+  },
+  {
+   "berlaku": "Satu tahun setelah diundangkan (perkiraan akhir 2027). Tanggal pengundangan belum ada; bila tidak ditandatangani, RUU otomatis sah 30 hari setelah persetujuan DPR (±5 November 2026).",
+   "dampakHR": [
+    "Inventarisasi semua karyawan PKWT dan hitung masa kontrak kumulatif; siapkan pola kontrak 2 tahun + maksimal 2 perpanjangan @1 tahun sebelum UU berlaku.",
+    "Hitung ulang potensi kewajiban pesangon tanpa pengali 0,5 (PHK efisiensi, pailit, setelah SP3) dan mulai rencanakan anggaran dana cadangan pesangon (detail menunggu PP).",
+    "Review PP/PKB: cuti melahirkan & keguguran dengan upah, larangan penahanan ijazah/dokumen asli, ketentuan perselisihan kepentingan (upah, bonus, THR, PKB).",
+    "Perbarui SOP PHK: upah tetap dibayar sampai putusan berkekuatan hukum tetap, sehingga biaya dan durasi proses PHK perlu dianggarkan.",
+    "Cek JDIH Kemnaker/BPK setelah ±5 November; jangan ubah kebijakan internal sebelum naskah resmi bernomor tersedia dan dicocokkan pasal per pasal.",
+    "Agendakan sosialisasi di LKS Bipartit setelah naskah resmi terbit."
+   ],
+   "diperbarui": "2026-11-02",
+   "jenis": "UU",
+   "judul": "UU Pelindungan Ketenagakerjaan",
+   "lingkup": "Nasional",
+   "nomor": "Nomor UU belum terkonfirmasi (per 21 Okt 2026 masih diproses di Setneg)",
+   "prioritas": "tinggi",
+   "ringkasan": "Disahkan DPR 6 Oktober 2026 sebagai tindak lanjut Putusan MK 168/PUU-XXI/2023 (23 bab, 313 pasal). Poin utama: PKWT maksimal 4 tahun, pengali pesangon 0,5 dihapus, wajib dana cadangan pesangon, upah tetap dibayar selama perselisihan PHK, larangan menahan ijazah, cuti melahirkan & keguguran berupah, dan upah minimum sektoral minimal 5% di atas UMP/UMK. Per pengecekan 2 November 2026, nomor UU dan tanggal pengundangan masih belum terkonfirmasi dan naskah resmi belum ditemukan di JDIH; pernyataan terakhir Menaker (21 Okt) menyebut naskah masih di Setneg. Bila tidak ditandatangani, RUU sah dengan sendirinya sekitar 5 November 2026. Belum ada permohonan uji materi ke MK yang terkonfirmasi terdaftar.",
+   "status": "Disahkan, belum berlaku",
+   "sumber": [
+    {
+     "judul": "Kompas – DPR Sahkan UU Pelindungan Ketenagakerjaan",
+     "url": "https://nasional.kompas.com/read/2026/10/06/11043691/dpr-sahkan-uu-pelindungan-ketenagakerjaan"
+    },
+    {
+     "judul": "CNN Indonesia – Menaker: publikasi UU masih di Setneg (21 Okt)",
+     "url": "https://www.cnnindonesia.com/ekonomi/20261021131146-92-1417930/menaker-soal-publikasi-uu-pelindungan-ketenagakerjaan-masih-di-setneg"
+    },
+    {
+     "judul": "CNBC Indonesia – Kabar terbaru UU usai diketok DPR (21 Okt)",
+     "url": "https://www.cnbcindonesia.com/news/20261021160736-4-778277/begini-kabar-terbaru-uu-pelindungan-ketenagakerjaan-usai-diketok-dpr"
+    },
+    {
+     "judul": "CNBC Indonesia – Kapan efektif berlaku?",
+     "url": "https://www.cnbcindonesia.com/news/20261006151306-4-773810/uu-pelindungan-ketenagakerjaan-resmi-disahkan-kapan-efektif-berlaku"
+    },
+    {
+     "judul": "Bisnis – Poin-poin penting RUU",
+     "url": "https://ekonomi.bisnis.com/read/20261006/12/2010068/poin-poin-penting-ruu-pelindungan-ketenagakerjaan-yang-akan-disahkan-jadi-uu-hari-ini"
+    },
+    {
+     "judul": "Harian Muria – Naskah UU belum dipublikasikan (12 Okt)",
+     "url": "https://harianmuria.com/grobogan/naskah-uu-ketenagakerjaan-belum-dipublikasikan-buruh-grobogan-pertimbangkan-judicial-review/"
+    }
+   ],
+   "tag": [
+    "PKWT",
+    "pesangon",
+    "outsourcing",
+    "upah",
+    "PHK",
+    "cuti melahirkan",
+    "ijazah"
+   ],
+   "tanggal": "2026-10-06",
+   "id": "uu-pelindungan-ketenagakerjaan-2026"
+  }
+ ],
+ "tr": [
+  {
+   "dampakHR": [
+    "Antisipasi lonjakan pertanyaan karyawan ke bagian personalia dan siapkan pengumuman singkat.",
+    "Verifikasi data upah dan status kepesertaan di BPJS Ketenagakerjaan untuk karyawan bergaji ≤ Rp3,5 juta.",
+    "Ingatkan karyawan waspada tautan palsu/penipuan yang mengatasnamakan BSU."
+   ],
+   "diperbarui": "2026-11-02",
+   "judul": "BSU 2026 Rp900 ribu kembali cair untuk pekerja bergaji ≤ Rp3,5 juta",
+   "kategori": "Upah",
+   "lingkup": "Nasional",
+   "panas": 3,
+   "ringkasan": "Kemnaker menerbitkan Permenaker 16/2026 (28 Oktober) yang menjadi dasar BSU 2026 sebesar Rp900 ribu sekaligus untuk peserta aktif BPJS Ketenagakerjaan sampai Agustus 2026 dengan upah maksimal Rp3,5 juta. Topik ini ramai dicari pekerja; jadwal pencairan resmi belum terkonfirmasi dan pengecekan diarahkan ke bsu.kemnaker.go.id.",
+   "sumber": [
+    {
+     "judul": "RCTI+/Okezone – Syarat lengkap BSU 2026",
+     "url": "https://www.rctiplus.com/news/detail/ekonomi/5505627/aturan-terbaru-dan-syarat-lengkap-penerima-bsu-2026-rp900-000"
+    },
+    {
+     "judul": "Lintas Tungkal – Permenaker BSU 2026",
+     "url": "https://lintastungkal.com/kemnaker-terbitkan-permenaker-tentang-bsu-2026-ini-persyaratan-penerimanya/"
+    }
+   ],
+   "tag": [
+    "BSU",
+    "subsidi upah",
+    "BPJS Ketenagakerjaan"
+   ],
+   "tanggal": "2026-10-28",
+   "id": "bsu-2026-rp900-ribu"
+  },
+  {
+   "dampakHR": [
+    "Koordinasi dengan serikat pekerja internal soal rencana keikutsertaan aksi dan pengaturan operasional.",
+    "Siapkan komunikasi ke karyawan tentang proses penetapan upah 2027."
+   ],
+   "diperbarui": "2026-10-15",
+   "judul": "Gelombang aksi buruh 15–30 Oktober, tuntut UMP/UMK 2027 naik 7,5–9,5%",
+   "kategori": "Upah",
+   "lingkup": "Nasional",
+   "panas": 3,
+   "ringkasan": "KSPI dan Partai Buruh menggelar aksi bergelombang di 38 provinsi mulai 15 Oktober menjelang penetapan UMP 2027. Selain upah, isu yang diangkat termasuk pembatasan outsourcing dan ketentuan pesangon.",
+   "sumber": [
+    {
+     "judul": "Gakorpan – Gelombang demo buruh",
+     "url": "https://www.gakorpan.com/gelombang-demo-buruh-dimulai-15-oktober-kspi-turun-di-38-provinsi-tuntut-ump-2027-naik-hingga-95-persen"
+    },
+    {
+     "judul": "IDX Channel – Tanggapan Menaker",
+     "url": "https://www.idxchannel.com/economics/buruh-minta-ump-2027-naik-hingga-95-persen-ini-kata-menaker/all"
+    }
+   ],
+   "tag": [
+    "demo",
+    "UMP 2027",
+    "KSPI"
+   ],
+   "tanggal": "2026-10-15",
+   "id": "demo-buruh-ump-2027"
+  },
+  {
+   "dampakHR": [
+    "Pastikan pembayaran upah, pesangon, dan iuran BPJS tepat waktu karena pelanggaran kini lebih mudah diadukan ke polisi.",
+    "Rapikan dokumentasi kasus PHK dan perselisihan yang sedang berjalan.",
+    "Tunjuk PIC hukum/HR untuk menanggapi bila ada panggilan klarifikasi dari polres."
+   ],
+   "diperbarui": "2026-10-19",
+   "judul": "Polri buka 35 Desk Ketenagakerjaan di polres kawasan industri",
+   "kategori": "Hubungan Industrial",
+   "lingkup": "Nasional",
+   "panas": 2,
+   "ringkasan": "Kapolri meresmikan Desk Ketenagakerjaan di 14 polda dan 35 polres secara serentak, dengan acara di Polres Jombang yang dihadiri Gubernur dan Kapolda Jatim. Desk melayani konsultasi dan aduan pidana ketenagakerjaan seperti PHK, pesangon, upah, kepesertaan BPJS, dan K3. Polri mencatat 395 aduan sejak 2025, 313 masih ditangani. Apakah Polres Tuban atau Gresik termasuk belum terkonfirmasi.",
+   "sumber": [
+    {
+     "judul": "Hukumonline – Kapolri resmikan 35 Desk Ketenagakerjaan",
+     "url": "https://www.hukumonline.com/berita/a/perkuat-perlindungan-buruh--kapolri-resmikan-35-desk-ketenagakerjaan-di-tingkat-polres-lt6ad34bf129624/"
+    },
+    {
+     "judul": "Antara – Polri tangani 395 aduan ketenagakerjaan",
+     "url": "https://antaranews.com/berita/5793237/polri-tangani-395-aduan-ketenagakerjaan-sejak-2025"
+    }
+   ],
+   "tag": [
+    "Polri",
+    "pidana ketenagakerjaan",
+    "aduan",
+    "Jombang"
+   ],
+   "tanggal": "2026-10-17",
+   "id": "desk-ketenagakerjaan-polri"
+  },
+  {
+   "dampakHR": [
+    "Catat sebagai risiko perubahan aturan; hindari kebijakan internal yang bergantung pada pasal yang belum terbit resmi.",
+    "Siapkan jawaban standar bila serikat internal menanyakan kapan aturan baru berlaku (jawaban: menunggu pengundangan, lalu masa transisi ±1 tahun).",
+    "Pantau situs MK untuk perkara pengujian setelah UU bernomor."
+   ],
+   "diperbarui": "2026-10-26",
+   "judul": "Naskah UU baru masih di Setneg; serikat minta salinan dan kepastian berlaku",
+   "kategori": "Hubungan Industrial",
+   "lingkup": "Nasional",
+   "panas": 2,
+   "ringkasan": "Pada 21 Oktober Menaker menyatakan naskah UU Pelindungan Ketenagakerjaan masih di Setneg dan meminta publik bersabar. Di hari yang sama KBMI dan Koalisi Besar Perjuangan Buruh mendatangi Badan Komunikasi Pemerintah (Bakom) meminta salinan UU dan kepastian kapan berlaku, karena penetapan upah minimum sudah dekat. Sebelumnya serikat juga menyoroti penangguhan upah minimum, mekanisme dana pesangon, dan pengaturan pekerja platform. Belum ada permohonan uji materi ke MK yang terkonfirmasi terdaftar.",
+   "sumber": [
+    {
+     "judul": "Merdeka – Bakom terima aspirasi buruh (21 Okt)",
+     "url": "https://www.merdeka.com/peristiwa/read/8318288/bakom-terima-aspirasi-buruh-soal-uu-pelindungan-ketenagakerjaan-ini-yang-mereka-minta"
+    },
+    {
+     "judul": "CNN Indonesia – Menaker: masih di Setneg",
+     "url": "https://www.cnnindonesia.com/ekonomi/20261021131146-92-1417930/menaker-soal-publikasi-uu-pelindungan-ketenagakerjaan-masih-di-setneg"
+    },
+    {
+     "judul": "Harian Muria – Buruh Grobogan pertimbangkan judicial review",
+     "url": "https://harianmuria.com/grobogan/naskah-uu-ketenagakerjaan-belum-dipublikasikan-buruh-grobogan-pertimbangkan-judicial-review/"
+    }
+   ],
+   "tag": [
+    "naskah UU",
+    "Setneg",
+    "Bakom",
+    "uji materi"
+   ],
+   "tanggal": "2026-10-21",
+   "id": "kritik-uu-baru"
+  },
+  {
+   "dampakHR": [
+    "Prioritaskan evaluasi pekerjaan outsourcing di luar kebersihan, katering, keamanan, angkutan pekerja, dan penunjang tambang/migas.",
+    "Pastikan supervisor pabrik tidak menerbitkan SP atau sanksi langsung ke pekerja vendor; salurkan lewat vendor sesuai kontrak.",
+    "Tuliskan pembagian kewenangan user–vendor di perjanjian dan cek kesesuaiannya di lapangan."
+   ],
+   "diperbarui": "2026-10-19",
+   "judul": "Outsourcing makin ketat: UU baru disebut hanya 5 bidang",
+   "kategori": "Alih Daya",
+   "lingkup": "Nasional",
+   "panas": 2,
+   "ringkasan": "Dalam diskusi HKHKI dan FH Trisakti, UU Pelindungan Ketenagakerjaan disebut membatasi alih daya menjadi 5 jenis pekerjaan penunjang, lebih sempit dari 6 bidang di Permenaker 7/2026. Ulasan Hukumonline juga mengingatkan bahwa perusahaan pengguna yang terlalu jauh mengatur pekerja vendor (memberi SP, evaluasi harian, seragam pengguna) bisa mengaburkan siapa pemberi kerja sebenarnya. Revisi Permenaker 7/2026 belum terkonfirmasi terbit.",
+   "sumber": [
+    {
+     "judul": "Hukumonline – Jenis pekerjaan penunjang diperketat",
+     "url": "https://www.hukumonline.com/berita/a/uu-pelindungan-ketenagakerjaan-ubah-aturan-outsourcing--jenis-pekerjaan-penunjang-diperketat-lt6ac85761d6266/"
+    },
+    {
+     "judul": "Hukumonline – Batas wewenang perusahaan pengguna",
+     "url": "https://www.hukumonline.com/berita/a/outsourcing-pasca-permenaker-7-2026--ketika-perusahaan-pengguna-terlalu-jauh-mengatur-pekerja-lt6ad08dd2b8d50/"
+    }
+   ],
+   "tag": [
+    "outsourcing",
+    "HKHKI",
+    "user-vendor"
+   ],
+   "tanggal": "2026-10-09",
+   "id": "outsourcing-5-bidang"
+  },
+  {
+   "dampakHR": [
+    "Simulasikan kenaikan liabilitas pesangon untuk laporan keuangan/aktuaria.",
+    "Pantau PP tentang dana cadangan pesangon."
+   ],
+   "diperbarui": "2026-10-15",
+   "judul": "Pesangon di UU baru: pengali 0,5 dihapus dan wajib dana cadangan",
+   "kategori": "PHK & Pesangon",
+   "lingkup": "Nasional",
+   "panas": 3,
+   "ringkasan": "Ramai dibahas bahwa pesangon minimal kini satu kali ketentuan, termasuk untuk PHK efisiensi. Pengusaha wajib menyiapkan dana cadangan pesangon (berbeda dari JKP BPJS), tetapi mekanismenya masih menunggu aturan turunan dan dipertanyakan serikat.",
+   "sumber": [
+    {
+     "judul": "Bernas – Aturan pesangon di UU baru",
+     "url": "https://bernas.id/nasional/news/aturan-pesangon-korban-phk-di-uu-ketenagakerjaan-baru-minimal-satu-kali-ketentua-2026-10-14"
+    },
+    {
+     "judul": "Afu.id – Tujuh poin penting UU",
+     "url": "https://afu.id/nasional/tujuh-poin-penting-uu-pelindungan-ketenagakerjaan-pkwt-pesangon-cuti-hingga-larangan-tahan-ijazah"
+    }
+   ],
+   "tag": [
+    "pesangon",
+    "dana cadangan",
+    "PHK"
+   ],
+   "tanggal": "2026-10-14",
+   "id": "pesangon-uu-baru"
+  },
+  {
+   "dampakHR": [
+    "Bila ada rencana efisiensi, siapkan perhitungan hak dan dokumentasi PHK lengkap sejak awal, termasuk tahapan dirumahkan.",
+    "Pastikan pelaporan PHK ke Disnaker dan dukungan klaim JKP bagi pekerja terdampak."
+   ],
+   "diperbarui": "2026-10-26",
+   "judul": "Pabrik sepatu PWI di Lebak tutup, sekitar 1.100 pekerja di-PHK",
+   "kategori": "PHK & Pesangon",
+   "lingkup": "Nasional",
+   "panas": 1,
+   "ringkasan": "PT Parkland World Indonesia 6 di Lebak, Banten, menyelesaikan PHK terhadap sekitar 1.100 pekerja pada 23 Oktober setelah pengurangan bertahap sejak akhir 2025, dengan alasan sewa gedung habis. Disnaker setempat menyebut hak pekerja dibayar penuh. Kasus ini menambah daftar PHK di industri padat karya yang tertekan ekspor lemah dan biaya produksi naik.",
+   "sumber": [
+    {
+     "judul": "Beritasatu – PT PWI tutup pabrik di Lebak",
+     "url": "https://www.beritasatu.com/banten/3036209/pt-pwi-tutup-pabrik-di-lebak-1100-karyawan-kena-phk"
+    }
+   ],
+   "tag": [
+    "PHK",
+    "alas kaki",
+    "padat karya",
+    "Banten"
+   ],
+   "tanggal": "2026-10-23",
+   "id": "phk-pwi-lebak"
+  },
+  {
+   "dampakHR": [
+    "Pastikan setiap PHK dilaporkan dan pekerja yang memenuhi syarat dibantu klaim JKP.",
+    "Gunakan data ini sebagai konteks saat berdialog dengan serikat soal efisiensi."
+   ],
+   "diperbarui": "2026-10-19",
+   "judul": "Kemnaker: 63.789 pekerja kena PHK Januari–September 2026, Jatim peringkat 3",
+   "kategori": "PHK & Pesangon",
+   "lingkup": "Nasional",
+   "panas": 2,
+   "ringkasan": "Data laporan PHK di sistem JKP mencatat 63.789 pekerja terdampak sampai September 2026. Jawa Barat terbanyak (13.044), disusul Banten (7.733) dan Jawa Timur (6.154).",
+   "sumber": [
+    {
+     "judul": "CNN Indonesia – 63.789 orang kena PHK",
+     "url": "https://www.cnnindonesia.com/ekonomi/20261011111129-92-1414020/kemnaker-63789-orang-kena-phk-hingga-september-2026-jabar-terbanyak"
+    }
+   ],
+   "tag": [
+    "PHK",
+    "JKP",
+    "data Kemnaker",
+    "Jawa Timur"
+   ],
+   "tanggal": "2026-10-11",
+   "id": "phk-sept-2026"
+  },
+  {
+   "dampakHR": [
+    "Siapkan skenario biaya upah 2027 untuk Tuban di kisaran Rp3,39–3,54 juta (naik 5–9,5%).",
+    "Antisipasi aksi lanjutan menjelang penetapan; koordinasikan dengan serikat internal soal izin dan operasional shift.",
+    "Pantau isu Raperda jaminan pesangon Jatim sebagai potensi kewajiban baru (belum terkonfirmasi dibahas DPRD)."
+   ],
+   "diperbarui": "2026-10-26",
+   "judul": "UMK Jatim 2027: buruh tuntut 5–10%, Pemprov tunggu arahan pusat",
+   "kategori": "Upah",
+   "lingkup": "Jawa Timur",
+   "panas": 3,
+   "ringkasan": "Per 22 Oktober belum ada angka UMK 2027 untuk 38 kabupaten/kota Jatim; prosesnya masih menunggu perhitungan KHL dan pembahasan formula di tingkat pusat, sehingga UMK 2026 (Tuban Rp3.229.092, Gresik Rp5.195.401, Surabaya Rp5.288.796) tetap dipakai. Pemprov menargetkan pembahasan rampung November dan menyoroti kesenjangan upah antardaerah. Serikat menuntut kenaikan 5–10% (FSPMI 7,5–9%, buruh Gresik 10%) serta UMSK minimal 5% di atas UMP. Simulasi Bisnis: UMK Tuban 2027 sekitar Rp3,47 juta (naik 7,5%) hingga Rp3,54 juta (naik 9,5%).",
+   "sumber": [
+    {
+     "judul": "Detik Jatim – Aturan UM 2027 & UMK 38 daerah (22 Okt)",
+     "url": "https://www.detik.com/jatim/bisnis/d-8719415/aturan-upah-minimum-2027-berapa-umk-38-daerah-di-jatim"
+    },
+    {
+     "judul": "Suara Surabaya – Pemprov siapkan pembahasan UMK 2027",
+     "url": "https://www.suarasurabaya.net/ekonomibisnis/2026/pemprov-jatim-siapkan-pembahasan-umk-2027-disparitas-upah-jadi-perhatian/"
+    },
+    {
+     "judul": "Suara Surabaya – Buruh desak Pemprov serius bahas UMK",
+     "url": "https://www.suarasurabaya.net/kelanakota/2026/buruh-desak-pemprov-jatim-serius-bahas-ump-dan-umk-2027/"
+    },
+    {
+     "judul": "Sekilas Media – Buruh Gresik tuntut 10%",
+     "url": "https://sekilasmedia.com/2026/10/buruh-gresik-tuntut-kenaikan-umk-2027-sebesar-10-persen-soroti-data-bps-dan-layanan-bpjs-kesehatan/"
+    },
+    {
+     "judul": "Bisnis – Simulasi UMK Jatim 2027 naik 7,5%",
+     "url": "https://ekonomi.bisnis.com/read/20261007/12/2010736/daftar-umk-jatim-2027-jika-naik-75-surabaya-tertinggi-mana-terendah"
+    },
+    {
+     "judul": "Bisnis – Simulasi UMK Jatim 2027 naik 9,5%",
+     "url": "https://ekonomi.bisnis.com/read/20261008/12/2010754/daftar-umk-jatim-2027-jika-naik-95-surabaya-tembus-rp579-juta"
+    }
+   ],
+   "tag": [
+    "UMK 2027",
+    "Tuban",
+    "Gresik",
+    "Surabaya",
+    "demo"
+   ],
+   "tanggal": "2026-10-22",
+   "id": "umk-jatim-2027-tuntutan"
+  },
+  {
+   "dampakHR": [
+    "Geser asumsi jadwal: Kepgub UMK Jatim 2027 kemungkinan terbit lebih lambat dari tahun lalu (belum terkonfirmasi), sehingga waktu persiapan payroll Januari makin sempit.",
+    "Siapkan tiga skenario anggaran upah 2027 (mis. naik 5%, 7,5%, 9,5% dari UMK Tuban 2026 Rp3.229.092) beserta dampaknya ke lembur, BPJS, dan THR.",
+    "Siapkan rencana komunikasi ke serikat/LKS Bipartit bahwa penyesuaian upah menunggu Kepgub resmi.",
+    "Pantau pengumuman Depenas dan Disnakertrans Jatim setiap pekan."
+   ],
+   "diperbarui": "2026-11-02",
+   "judul": "UMP 2027 molor: Menaker targetkan pembahasan rampung akhir November",
+   "kategori": "Upah",
+   "lingkup": "Nasional",
+   "panas": 3,
+   "ringkasan": "Tuntutan serikat agar UMP 2027 ditetapkan 1 November tidak terpenuhi. Pada 27 Oktober Menaker Yassierli menargetkan pembahasan di tingkat kementerian selesai pekan terakhir November 2026, lalu diteruskan ke Depenas dan dewan pengupahan daerah sebelum besaran kenaikan diumumkan. Pemerintah sedang menyiapkan estimasi KHL sesuai amanat UU baru, tetapi formula final (PP 49/2025 atau aturan baru) dan persentase kenaikan belum ditetapkan; usulan buruh 7,5–9,5% masih dikaji.",
+   "sumber": [
+    {
+     "judul": "Investor.id – Kenaikan upah 2027 diputuskan akhir November (27 Okt)",
+     "url": "https://investor.id/macroeconomy/459613/menaker-yassierli-kenaikan-upah-2027-diputuskan-akhir-november"
+    },
+    {
+     "judul": "Kumparan – UMP 2027 dibahas di dewan pengupahan akhir November",
+     "url": "https://kumparan.com/kumparanbisnis/ump-2027-mulai-dibahas-di-dewan-pengupahan-akhir-november-28SJnrfFImR"
+    },
+    {
+     "judul": "Katadata – Menaker target pembahasan internal tuntas November",
+     "url": "https://katadata.co.id/berita/nasional/6ae076253350b/ump-2027-mulai-bergulir-menaker-target-pembahasan-internal-tuntas-november"
+    },
+    {
+     "judul": "Kontan – Penetapan UMP 2027 sesuai UU baru (21 Okt)",
+     "url": "https://nasional.kontan.co.id/news/menaker-pastikan-penetapan-ump-2027-sesuai-uu-perlindungan-ketenagakerjaan-baru"
+    }
+   ],
+   "tag": [
+    "UMP 2027",
+    "formula",
+    "KHL",
+    "Depenas"
+   ],
+   "tanggal": "2026-10-27",
+   "id": "ump-2027-pakai-pp"
+  }
+ ],
+ "agenda": [
+  {
+   "judul": "Batas 30 hari pengesahan UU Pelindungan Ketenagakerjaan",
+   "keterangan": "Menurut Pasal 20 ayat (5) UUD 1945, RUU yang sudah disetujui DPR (6 Okt) sah menjadi UU bila tidak ditandatangani Presiden dalam 30 hari. Cek JDIH untuk nomor UU dan tanggal pengundangan.",
+   "tanggal": "2026-11-05",
+   "id": "batas-30-hari-uu-pk"
+  },
+  {
+   "judul": "Gelombang aksi buruh dimulai",
+   "keterangan": "Berlangsung bergelombang sampai 30 Oktober di 38 provinsi.",
+   "tanggal": "2026-10-15",
+   "id": "demo-buruh-okt-2026"
+  },
+  {
+   "judul": "Penetapan UMK & UMSK 2027",
+   "keterangan": "Jadwal yang sempat disebut dalam pemberitaan. Karena pusat baru menargetkan pembahasan UMP rampung akhir November, penetapan UMK/UMSK Jatim kemungkinan mundur (belum terkonfirmasi). Pantau Kepgub Jatim.",
+   "tanggal": "2026-11-10",
+   "id": "penetapan-umk-2027"
+  },
+  {
+   "judul": "Target rampung pembahasan UMP 2027 (Kemnaker)",
+   "keterangan": "Tuntutan penetapan 1 November tidak terpenuhi. Menaker (27 Okt) menargetkan pembahasan tingkat kementerian selesai pekan terakhir November, lalu ke Depenas dan dewan pengupahan daerah. Tanggal pasti belum ada; 30 November dipakai sebagai patokan.",
+   "tanggal": "2026-11-30",
+   "id": "penetapan-ump-2027"
+  },
+  {
+   "judul": "Tenggat Putusan MK 168",
+   "keterangan": "Batas pembentukan UU ketenagakerjaan baru; sudah dipenuhi dengan pengesahan 6 Oktober.",
+   "tanggal": "2026-10-31",
+   "id": "tenggat-mk-168"
+  },
+  {
+   "judul": "Batas penyesuaian perjanjian alih daya",
+   "keterangan": "Masa transisi 2 tahun Permenaker 7/2026.",
+   "tanggal": "2028-04-30",
+   "id": "transisi-alih-daya"
+  },
+  {
+   "judul": "UMP/UMK 2027 mulai berlaku",
+   "keterangan": "Payroll Januari wajib sudah menyesuaikan UMK baru.",
+   "tanggal": "2027-01-01",
+   "id": "umk-2027-berlaku"
+  },
+  {
+   "judul": "Perkiraan UU Pelindungan Ketenagakerjaan berlaku",
+   "keterangan": "Perkiraan saja: satu tahun setelah diundangkan. Per 21 Oktober 2026 naskah masih di Setneg dan belum bernomor, jadi tanggal ini bisa bergeser (paling cepat sekitar Oktober–November 2027).",
+   "tanggal": "2027-10-06",
+   "id": "uu-pk-berlaku"
+  }
+ ],
+ "meta": {
+  "jadwal": "Setiap hari pagi",
+  "rekap": [
+   {
+    "level": "tinggi",
+    "ref": "trending:ump-2027-pakai-pp",
+    "teks": "UMP 2027 baru ditargetkan rampung akhir November, jadi UMK Tuban 2027 kemungkinan terlambat. Siapkan 3 skenario anggaran upah (naik 5%, 7,5%, 9,5%)."
+   },
+   {
+    "level": "tinggi",
+    "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
+    "teks": "UU Pelindungan Ketenagakerjaan belum bernomor dan sah otomatis sekitar 5 November. Mulai data ulang kontrak PKWT, PKB, dan rencana dana cadangan pesangon."
+   },
+   {
+    "level": "sedang",
+    "ref": "regulasi:permenaker-16-2026",
+    "teks": "BSU 2026 Rp900 ribu untuk pekerja bergaji ≤ Rp3,5 juta. Cocokkan upah yang dilaporkan ke BPJS Ketenagakerjaan dengan payroll."
+   },
+   {
+    "level": "sedang",
+    "ref": "trending:outsourcing-5-bidang",
+    "teks": "Aturan outsourcing makin ketat dan perjanjian alih daya harus disesuaikan paling lambat 30 April 2028. Mulai tinjau kontrak vendor."
+   },
+   {
+    "level": "info",
+    "ref": "trending:phk-sept-2026",
+    "teks": "PHK nasional Januari–September 2026 mencapai 63.789 orang; Jawa Timur peringkat ketiga. Pastikan prosedur PHK dan pesangon sesuai aturan."
+   }
+  ],
+  "ringkasan": "Terbit Permenaker 16/2026 tentang BSU 2026 (Rp900 ribu untuk pekerja bergaji ≤ Rp3,5 juta); Menaker menargetkan pembahasan UMP 2027 baru rampung akhir November sehingga UMK Jatim kemungkinan mundur, sementara nomor UU Pelindungan Ketenagakerjaan masih belum terkonfirmasi (batas 30 hari ±5 Nov).",
+  "terakhirUpdate": "2026-11-02T06:50:00+07:00"
+ }
+}
