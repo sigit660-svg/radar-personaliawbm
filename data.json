@@ -278,8 +278,9 @@
  "tr": [
   {
    "dampakHR": [
-    "Antisipasi lonjakan pertanyaan karyawan ke bagian personalia dan siapkan pengumuman singkat.",
+    "Antisipasi lonjakan pertanyaan karyawan ke bagian personalia dan siapkan pengumuman singkat (rencana cair November–Desember 2026).",
     "Verifikasi data upah dan status kepesertaan di BPJS Ketenagakerjaan untuk karyawan bergaji ≤ Rp3,5 juta.",
+    "Ingatkan karyawan agar rekening bank tetap aktif supaya dana bisa masuk.",
     "Ingatkan karyawan waspada tautan palsu/penipuan yang mengatasnamakan BSU."
    ],
    "diperbarui": "2026-11-02",
@@ -287,7 +288,7 @@
    "kategori": "Upah",
    "lingkup": "Nasional",
    "panas": 3,
-   "ringkasan": "Kemnaker menerbitkan Permenaker 16/2026 (28 Oktober) yang menjadi dasar BSU 2026 sebesar Rp900 ribu sekaligus untuk peserta aktif BPJS Ketenagakerjaan sampai Agustus 2026 dengan upah maksimal Rp3,5 juta. Topik ini ramai dicari pekerja; jadwal pencairan resmi belum terkonfirmasi dan pengecekan diarahkan ke bsu.kemnaker.go.id.",
+   "ringkasan": "Kemnaker menerbitkan Permenaker 16/2026 (28 Oktober) sebagai dasar BSU 2026 sebesar Rp900 ribu (Rp300 ribu × 3 bulan, Oktober–Desember) yang dibayar sekaligus untuk peserta aktif BPJS Ketenagakerjaan dengan upah maksimal Rp3,5 juta. Lewat akun resminya (29 Oktober), Kemnaker menyebut rencana pencairan November–Desember 2026; ini rentang rencana, belum tanggal pasti. Pengecekan diarahkan ke bsu.kemnaker.go.id.",
    "sumber": [
     {
      "judul": "RCTI+/Okezone – Syarat lengkap BSU 2026",
@@ -296,6 +297,10 @@
     {
      "judul": "Lintas Tungkal – Permenaker BSU 2026",
      "url": "https://lintastungkal.com/kemnaker-terbitkan-permenaker-tentang-bsu-2026-ini-persyaratan-penerimanya/"
+    },
+    {
+     "judul": "tvOnenews – BSU 2026 rencana cair November–Desember",
+     "url": "https://tvonenews.com/berita/nasional/476130-resmi-kemnaker-umumkan-aturan-bsu-2026-bantuan-rp900-ribu-cair-novemberdesember"
     }
    ],
    "tag": [
@@ -515,35 +520,32 @@
   {
    "dampakHR": [
     "Siapkan skenario biaya upah 2027 untuk Tuban di kisaran Rp3,39–3,54 juta (naik 5–9,5%).",
+    "Pantau rapat Dewan Pengupahan Kabupaten Tuban: usulan UMK ke Gubernur kemungkinan dikirim sekitar pertengahan–akhir November.",
     "Antisipasi aksi lanjutan menjelang penetapan; koordinasikan dengan serikat internal soal izin dan operasional shift.",
     "Pantau isu Raperda jaminan pesangon Jatim sebagai potensi kewajiban baru (belum terkonfirmasi dibahas DPRD)."
    ],
-   "diperbarui": "2026-10-26",
+   "diperbarui": "2026-11-02",
    "judul": "UMK Jatim 2027: buruh tuntut 5–10%, Pemprov tunggu arahan pusat",
    "kategori": "Upah",
    "lingkup": "Jawa Timur",
    "panas": 3,
-   "ringkasan": "Per 22 Oktober belum ada angka UMK 2027 untuk 38 kabupaten/kota Jatim; prosesnya masih menunggu perhitungan KHL dan pembahasan formula di tingkat pusat, sehingga UMK 2026 (Tuban Rp3.229.092, Gresik Rp5.195.401, Surabaya Rp5.288.796) tetap dipakai. Pemprov menargetkan pembahasan rampung November dan menyoroti kesenjangan upah antardaerah. Serikat menuntut kenaikan 5–10% (FSPMI 7,5–9%, buruh Gresik 10%) serta UMSK minimal 5% di atas UMP. Simulasi Bisnis: UMK Tuban 2027 sekitar Rp3,47 juta (naik 7,5%) hingga Rp3,54 juta (naik 9,5%).",
+   "ringkasan": "Per akhir Oktober belum ada angka UMK 2027 untuk 38 kabupaten/kota Jatim; prosesnya masih menunggu data BPS, perhitungan KHL, dan aturan formula dari pusat, sehingga UMK 2026 (Tuban Rp3.229.092, Gresik Rp5.195.401, Surabaya Rp5.288.796) tetap dipakai. Di tingkat daerah, Disnaker Kota Batu menargetkan usulan UMK dikirim ke Gubernur 19 November dan menyebut batas penetapan UMK paling lambat 25 November, tetapi jadwal ini bisa mundur karena pusat baru menargetkan pembahasan rampung akhir November (belum terkonfirmasi untuk seluruh Jatim). Serikat menuntut kenaikan 5–10%. Simulasi Bisnis: UMK Tuban 2027 sekitar Rp3,47 juta (naik 7,5%) hingga Rp3,54 juta (naik 9,5%).",
    "sumber": [
     {
      "judul": "Detik Jatim – Aturan UM 2027 & UMK 38 daerah (22 Okt)",
      "url": "https://www.detik.com/jatim/bisnis/d-8719415/aturan-upah-minimum-2027-berapa-umk-38-daerah-di-jatim"
     },
     {
+     "judul": "Ketik – Disnaker Batu targetkan usulan UMK 2027 dikirim 19 November (28 Okt)",
+     "url": "https://ketik.com/batu/politik-pemerintahan/bahas-umk-kota-batu-2027-disnaker-targetkan-pengiriman-usulan-19-november"
+    },
+    {
      "judul": "Suara Surabaya – Pemprov siapkan pembahasan UMK 2027",
      "url": "https://www.suarasurabaya.net/ekonomibisnis/2026/pemprov-jatim-siapkan-pembahasan-umk-2027-disparitas-upah-jadi-perhatian/"
     },
     {
-     "judul": "Suara Surabaya – Buruh desak Pemprov serius bahas UMK",
-     "url": "https://www.suarasurabaya.net/kelanakota/2026/buruh-desak-pemprov-jatim-serius-bahas-ump-dan-umk-2027/"
-    },
-    {
      "judul": "Sekilas Media – Buruh Gresik tuntut 10%",
      "url": "https://sekilasmedia.com/2026/10/buruh-gresik-tuntut-kenaikan-umk-2027-sebesar-10-persen-soroti-data-bps-dan-layanan-bpjs-kesehatan/"
-    },
-    {
-     "judul": "Bisnis – Simulasi UMK Jatim 2027 naik 7,5%",
-     "url": "https://ekonomi.bisnis.com/read/20261007/12/2010736/daftar-umk-jatim-2027-jika-naik-75-surabaya-tertinggi-mana-terendah"
     },
     {
      "judul": "Bisnis – Simulasi UMK Jatim 2027 naik 9,5%",
@@ -666,8 +668,13 @@
    },
    {
     "level": "sedang",
-    "ref": "regulasi:permenaker-16-2026",
-    "teks": "BSU 2026 Rp900 ribu untuk pekerja bergaji ≤ Rp3,5 juta. Cocokkan upah yang dilaporkan ke BPJS Ketenagakerjaan dengan payroll."
+    "ref": "trending:umk-jatim-2027-tuntutan",
+    "teks": "Dewan pengupahan daerah di Jatim mulai bahas UMK 2027; usulan ke Gubernur ditargetkan sekitar 19 November. Pantau rapat Dewan Pengupahan Tuban."
+   },
+   {
+    "level": "sedang",
+    "ref": "trending:bsu-2026-rp900-ribu",
+    "teks": "BSU 2026 Rp900 ribu rencananya cair November–Desember untuk pekerja bergaji ≤ Rp3,5 juta. Cocokkan upah di BPJS Ketenagakerjaan dengan payroll."
    },
    {
     "level": "sedang",
@@ -680,7 +687,7 @@
     "teks": "PHK nasional Januari–September 2026 mencapai 63.789 orang; Jawa Timur peringkat ketiga. Pastikan prosedur PHK dan pesangon sesuai aturan."
    }
   ],
-  "ringkasan": "Terbit Permenaker 16/2026 tentang BSU 2026 (Rp900 ribu untuk pekerja bergaji ≤ Rp3,5 juta); Menaker menargetkan pembahasan UMP 2027 baru rampung akhir November sehingga UMK Jatim kemungkinan mundur, sementara nomor UU Pelindungan Ketenagakerjaan masih belum terkonfirmasi (batas 30 hari ±5 Nov).",
-  "terakhirUpdate": "2026-11-02T06:50:00+07:00"
+  "ringkasan": "Tidak ada perubahan regulasi hari ini. Nomor UU Pelindungan Ketenagakerjaan, naskah resmi, dan penetapan UMP/UMK 2027 masih belum terkonfirmasi.",
+  "terakhirUpdate": "2026-11-03T08:12:00+07:00"
  }
 }
