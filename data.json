@@ -658,13 +658,13 @@
   "rekap": [
    {
     "level": "tinggi",
-    "ref": "trending:ump-2027-pakai-pp",
-    "teks": "UMP 2027 baru ditargetkan rampung akhir November, jadi UMK Tuban 2027 kemungkinan terlambat. Siapkan 3 skenario anggaran upah (naik 5%, 7,5%, 9,5%)."
+    "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
+    "teks": "Batas 30 hari pengesahan UU Pelindungan Ketenagakerjaan jatuh hari ini, tapi nomor dan naskah resmi belum terbit. Cek JDIH tiap hari; mulai data ulang kontrak PKWT dan PKB."
    },
    {
     "level": "tinggi",
-    "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "UU Pelindungan Ketenagakerjaan belum bernomor dan sah otomatis sekitar 5 November. Mulai data ulang kontrak PKWT, PKB, dan rencana dana cadangan pesangon."
+    "ref": "trending:ump-2027-pakai-pp",
+    "teks": "UMP 2027 baru ditargetkan rampung akhir November, jadi UMK Tuban 2027 kemungkinan terlambat. Siapkan 3 skenario anggaran upah (naik 5%, 7,5%, 9,5%)."
    },
    {
     "level": "sedang",
@@ -674,7 +674,7 @@
    {
     "level": "sedang",
     "ref": "trending:bsu-2026-rp900-ribu",
-    "teks": "BSU 2026 Rp900 ribu rencananya cair November–Desember untuk pekerja bergaji ≤ Rp3,5 juta. Cocokkan upah di BPJS Ketenagakerjaan dengan payroll."
+    "teks": "BSU 2026 Rp900 ribu rencananya cair November–Desember untuk pekerja bergaji ≤ Rp3,5 juta; tanggal pasti belum ada. Cocokkan upah di BPJS Ketenagakerjaan dengan payroll."
    },
    {
     "level": "sedang",
@@ -687,7 +687,7 @@
     "teks": "PHK nasional Januari–September 2026 mencapai 63.789 orang; Jawa Timur peringkat ketiga. Pastikan prosedur PHK dan pesangon sesuai aturan."
    }
   ],
-  "ringkasan": "Tidak ada perubahan regulasi hari ini. Nomor UU Pelindungan Ketenagakerjaan, naskah resmi, dan penetapan UMP/UMK 2027 masih belum terkonfirmasi.",
-  "terakhirUpdate": "2026-11-04T09:00:00+07:00"
+  "ringkasan": "Tidak ada perubahan regulasi hari ini. Batas 30 hari pengesahan UU Pelindungan Ketenagakerjaan jatuh hari ini (5 November), tetapi nomor UU dan naskah resmi di JDIH belum ditemukan (belum terkonfirmasi).",
+  "terakhirUpdate": "2026-11-05T08:00:00+07:00"
  }
 }
