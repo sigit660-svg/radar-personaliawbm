@@ -225,16 +225,16 @@
     "Hitung ulang potensi kewajiban pesangon tanpa pengali 0,5 (PHK efisiensi, pailit, setelah SP3) dan mulai rencanakan anggaran dana cadangan pesangon (detail menunggu PP).",
     "Review PP/PKB: cuti melahirkan & keguguran dengan upah, larangan penahanan ijazah/dokumen asli, ketentuan perselisihan kepentingan (upah, bonus, THR, PKB).",
     "Perbarui SOP PHK: upah tetap dibayar sampai putusan berkekuatan hukum tetap, sehingga biaya dan durasi proses PHK perlu dianggarkan.",
-    "Cek JDIH Kemnaker/BPK setelah ±5 November; jangan ubah kebijakan internal sebelum naskah resmi bernomor tersedia dan dicocokkan pasal per pasal.",
+    "Cek JDIH Kemnaker/BPK/Setneg untuk memastikan nomor, tanggal pengundangan, dan naskah resmi; jangan ubah kebijakan internal sebelum naskah resmi dicocokkan pasal per pasal.",
     "Agendakan sosialisasi di LKS Bipartit setelah naskah resmi terbit."
    ],
-   "diperbarui": "2026-11-02",
+   "diperbarui": "2026-11-06",
    "jenis": "UU",
    "judul": "UU Pelindungan Ketenagakerjaan",
    "lingkup": "Nasional",
-   "nomor": "Nomor UU belum terkonfirmasi (per 21 Okt 2026 masih diproses di Setneg)",
+   "nomor": "Diduga UU Nomor 27 Tahun 2026 (belum terkonfirmasi; baru muncul di satu cuplikan JDIH BPK, naskah resmi belum dibuka)",
    "prioritas": "tinggi",
-   "ringkasan": "Disahkan DPR 6 Oktober 2026 sebagai tindak lanjut Putusan MK 168/PUU-XXI/2023 (23 bab, 313 pasal). Poin utama: PKWT maksimal 4 tahun, pengali pesangon 0,5 dihapus, wajib dana cadangan pesangon, upah tetap dibayar selama perselisihan PHK, larangan menahan ijazah, cuti melahirkan & keguguran berupah, dan upah minimum sektoral minimal 5% di atas UMP/UMK. Per pengecekan 2 November 2026, nomor UU dan tanggal pengundangan masih belum terkonfirmasi dan naskah resmi belum ditemukan di JDIH; pernyataan terakhir Menaker (21 Okt) menyebut naskah masih di Setneg. Bila tidak ditandatangani, RUU sah dengan sendirinya sekitar 5 November 2026. Belum ada permohonan uji materi ke MK yang terkonfirmasi terdaftar.",
+   "ringkasan": "Disahkan DPR 6 Oktober 2026 sebagai tindak lanjut Putusan MK 168/PUU-XXI/2023 (23 bab, 313 pasal). Poin utama: PKWT maksimal 4 tahun, pengali pesangon 0,5 dihapus, wajib dana cadangan pesangon, upah tetap dibayar selama perselisihan PHK, larangan menahan ijazah, cuti melahirkan & keguguran berupah, dan upah minimum sektoral minimal 5% di atas UMP/UMK. Batas 30 hari sejak persetujuan DPR sudah lewat pada 5 November 2026, sehingga secara konstitusional RUU ini sah walau belum ditandatangani. Per 6 November, satu cuplikan di JDIH BPK menyebut nomor 'UU No. 27 Tahun 2026', tetapi belum ada naskah resmi dan tanggal pengundangan yang bisa dipastikan (belum terkonfirmasi). KSPI menyiapkan opsi uji materi ke MK; belum ada perkara yang terkonfirmasi terdaftar.",
    "status": "Disahkan, belum berlaku",
    "sumber": [
     {
@@ -260,6 +260,14 @@
     {
      "judul": "Harian Muria – Naskah UU belum dipublikasikan (12 Okt)",
      "url": "https://harianmuria.com/grobogan/naskah-uu-ketenagakerjaan-belum-dipublikasikan-buruh-grobogan-pertimbangkan-judicial-review/"
+    },
+    {
+     "judul": "Kumparan – UU Ketenagakerjaan: antara hukum dan ketidakpastian",
+     "url": "https://kumparan.com/galuh-ramadani/uu-ketenagakerjaan-antara-hukum-dan-ketidakpastian-28RTehjF0xX"
+    },
+    {
+     "judul": "JDIH BPK – cuplikan UU 13/2003 menyebut UU No. 27 Tahun 2026 (belum terkonfirmasi)",
+     "url": "https://peraturan.bpk.go.id/Details/43013/uu-no-13-tahun-2003"
     }
    ],
    "tag": [
@@ -606,7 +614,7 @@
  "agenda": [
   {
    "judul": "Batas 30 hari pengesahan UU Pelindungan Ketenagakerjaan",
-   "keterangan": "Menurut Pasal 20 ayat (5) UUD 1945, RUU yang sudah disetujui DPR (6 Okt) sah menjadi UU bila tidak ditandatangani Presiden dalam 30 hari. Cek JDIH untuk nomor UU dan tanggal pengundangan.",
+   "keterangan": "Batas 30 hari (Pasal 20 ayat 5 UUD 1945) sudah lewat tanggal 5 November. Nomor UU (diduga 27/2026) dan naskah resmi belum terkonfirmasi; cek JDIH setiap hari.",
    "tanggal": "2026-11-05",
    "id": "batas-30-hari-uu-pk"
   },
@@ -659,7 +667,7 @@
    {
     "level": "tinggi",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "Nomor dan naskah resmi UU Pelindungan Ketenagakerjaan belum terbit, dan serikat buruh mendesak segera diteken. Cek JDIH tiap hari; mulai data ulang kontrak PKWT dan PKB."
+    "teks": "Batas 30 hari UU sudah lewat; nomor diduga 27/2026 tetapi naskah resmi belum ada. Cek JDIH tiap hari, mulai data ulang kontrak PKWT dan PKB."
    },
    {
     "level": "tinggi",
@@ -674,7 +682,7 @@
    {
     "level": "sedang",
     "ref": "trending:bsu-2026-rp900-ribu",
-    "teks": "BSU 2026 Rp900 ribu dasar aturannya Permenaker 16/2026; tanggal cair belum pasti (rencana November–Desember). Cocokkan upah dan kepesertaan BPJS dengan payroll."
+    "teks": "BSU 2026 Rp900 ribu dasar aturannya Permenaker 16/2026; jadwal cair belum diumumkan Kemnaker. Cocokkan upah dan kepesertaan BPJS dengan payroll."
    },
    {
     "level": "sedang",
@@ -687,7 +695,7 @@
     "teks": "PHK nasional Januari–September 2026 mencapai 63.789 orang; Jawa Timur peringkat ketiga. Pastikan prosedur PHK dan pesangon sesuai aturan."
    }
   ],
-  "ringkasan": "Tidak ada perubahan regulasi hari ini. Nomor UU dan naskah resmi UU Pelindungan Ketenagakerjaan masih belum terbit (belum terkonfirmasi); UMP dan UMK 2027 juga belum ditetapkan.",
-  "terakhirUpdate": "2026-11-06T06:48:00+07:00"
+  "ringkasan": "Batas 30 hari pengesahan UU Pelindungan Ketenagakerjaan sudah lewat (5 November); satu cuplikan JDIH BPK menyebut nomor UU 27/2026, belum terkonfirmasi. UMP dan UMK 2027 belum ditetapkan.",
+  "terakhirUpdate": "2026-11-06T07:30:00+07:00"
  }
 }
