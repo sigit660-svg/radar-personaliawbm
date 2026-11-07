@@ -219,55 +219,51 @@
    "id": "putusan-mk-168-2023"
   },
   {
-   "berlaku": "Satu tahun setelah diundangkan (perkiraan akhir 2027). Tanggal pengundangan belum ada; bila tidak ditandatangani, RUU otomatis sah 30 hari setelah persetujuan DPR (±5 November 2026).",
+   "berlaku": "Ditetapkan, diundangkan, dan berlaku sejak 28 Oktober 2026 menurut catatan Setneg (dikutip Kompas). Ada masa transisi 1 tahun; efektif penuh sekitar 6 atau 28 Oktober 2027 (titik hitung belum terkonfirmasi). Selama transisi PP 35/2021 masih jadi acuan; aturan pengupahan baru diperkirakan dipakai mulai upah minimum 2028.",
    "dampakHR": [
-    "Inventarisasi semua karyawan PKWT dan hitung masa kontrak kumulatif; siapkan pola kontrak 2 tahun + maksimal 2 perpanjangan @1 tahun sebelum UU berlaku.",
-    "Hitung ulang potensi kewajiban pesangon tanpa pengali 0,5 (PHK efisiensi, pailit, setelah SP3) dan mulai rencanakan anggaran dana cadangan pesangon (detail menunggu PP).",
-    "Review PP/PKB: cuti melahirkan & keguguran dengan upah, larangan penahanan ijazah/dokumen asli, ketentuan perselisihan kepentingan (upah, bonus, THR, PKB).",
-    "Perbarui SOP PHK: upah tetap dibayar sampai putusan berkekuatan hukum tetap, sehingga biaya dan durasi proses PHK perlu dianggarkan.",
-    "Cek JDIH Kemnaker/BPK/Setneg untuk memastikan nomor, tanggal pengundangan, dan naskah resmi; jangan ubah kebijakan internal sebelum naskah resmi dicocokkan pasal per pasal.",
-    "Agendakan sosialisasi di LKS Bipartit setelah naskah resmi terbit."
+    "Unduh naskah resmi UU 27/2026 dari JDIH Setneg/BPK dan cocokkan pasal PKWT, pesangon, dan PHK sebelum mengubah kebijakan.",
+    "Inventarisasi karyawan PKWT dan hitung masa kontrak kumulatif; siapkan pola 2 tahun + maksimal 2 perpanjangan @1 tahun sebelum akhir masa transisi.",
+    "Hitung ulang potensi pesangon tanpa pengali 0,5 dan mulai rencanakan anggaran dana cadangan pesangon (detail menunggu PP).",
+    "Perbarui SOP PHK: terapkan 10 langkah pencegahan PHK dan anggarkan upah selama proses sampai putusan inkrah.",
+    "Review PP/PKB: cuti melahirkan & keguguran berupah, larangan menahan ijazah/dokumen asli.",
+    "Agendakan sosialisasi di LKS Bipartit dan pantau PP turunan di JDIH Kemnaker."
    ],
-   "diperbarui": "2026-11-06",
+   "diperbarui": "2026-11-07",
    "jenis": "UU",
    "judul": "UU Pelindungan Ketenagakerjaan",
    "lingkup": "Nasional",
-   "nomor": "Diduga UU Nomor 27 Tahun 2026 (belum terkonfirmasi; baru muncul di satu cuplikan JDIH BPK, naskah resmi belum dibuka)",
+   "nomor": "UU Nomor 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
    "prioritas": "tinggi",
-   "ringkasan": "Disahkan DPR 6 Oktober 2026 sebagai tindak lanjut Putusan MK 168/PUU-XXI/2023 (23 bab, 313 pasal). Poin utama: PKWT maksimal 4 tahun, pengali pesangon 0,5 dihapus, wajib dana cadangan pesangon, upah tetap dibayar selama perselisihan PHK, larangan menahan ijazah, cuti melahirkan & keguguran berupah, dan upah minimum sektoral minimal 5% di atas UMP/UMK. Batas 30 hari sejak persetujuan DPR sudah lewat pada 5 November 2026, sehingga secara konstitusional RUU ini sah walau belum ditandatangani. Per 6 November, satu cuplikan di JDIH BPK menyebut nomor 'UU No. 27 Tahun 2026', tetapi belum ada naskah resmi dan tanggal pengundangan yang bisa dipastikan (belum terkonfirmasi). KSPI menyiapkan opsi uji materi ke MK; belum ada perkara yang terkonfirmasi terdaftar.",
-   "status": "Disahkan, belum berlaku",
+   "ringkasan": "UU 27/2026 disetujui DPR 6 Oktober 2026 dan menurut Setneg ditetapkan serta diundangkan 28 Oktober 2026; naskahnya baru terbit sekitar 6 November. Isi utama: PKWT maksimal 4 tahun (2 tahun + 2 kali perpanjangan @1 tahun), pengali pesangon 0,5 dihapus, wajib dana cadangan pesangon, 10 langkah wajib mencegah PHK, upah tetap dibayar sampai putusan PHK berkekuatan hukum tetap, larangan menahan ijazah, cuti melahirkan & keguguran berupah. Ada masa transisi 1 tahun. Jumlah pasal berbeda antar sumber (313 di sebagian besar, 303 di satu sumber). Aturan turunan (PP) belum terbit. Semua angka ini dari berita, belum dicocokkan dengan naskah resmi. Apindo masih mempelajari; KSPI menerima dengan catatan.",
+   "status": "Berlaku",
    "sumber": [
     {
-     "judul": "Kompas – DPR Sahkan UU Pelindungan Ketenagakerjaan",
-     "url": "https://nasional.kompas.com/read/2026/10/06/11043691/dpr-sahkan-uu-pelindungan-ketenagakerjaan"
+     "judul": "Kompas.id – Dokumen UU Pelindungan Ketenagakerjaan 2026 akhirnya terbit",
+     "url": "https://www.kompas.id/artikel/dokumen-uu-pelindungan-ketenagakerjaan-2026-akhirnya-terbit"
     },
     {
-     "judul": "CNN Indonesia – Menaker: publikasi UU masih di Setneg (21 Okt)",
-     "url": "https://www.cnnindonesia.com/ekonomi/20261021131146-92-1417930/menaker-soal-publikasi-uu-pelindungan-ketenagakerjaan-masih-di-setneg"
+     "judul": "Kompas – UU Pelindungan Ketenagakerjaan: PKWT paling lama 4 tahun (7 Nov)",
+     "url": "https://nasional.kompas.com/read/2026/11/07/00060571/uu-pelindungan-ketenagakerjaan-pkwt-paling-lama-4-tahun"
     },
     {
-     "judul": "CNBC Indonesia – Kabar terbaru UU usai diketok DPR (21 Okt)",
-     "url": "https://www.cnbcindonesia.com/news/20261021160736-4-778277/begini-kabar-terbaru-uu-pelindungan-ketenagakerjaan-usai-diketok-dpr"
+     "judul": "Kompas – Perusahaan dan pemerintah wajib cegah PHK (6 Nov)",
+     "url": "https://nasional.kompas.com/read/2026/11/06/15082551/uu-pelindungan-ketenagakerjaan-perusahaan-dan-pemerintah-wajib-cegah-phk"
+    },
+    {
+     "judul": "FSP KEP SPSI – UU Nomor 27 Tahun 2026 hadir",
+     "url": "https://spkep-spsi.org/uu-nomor-27-tahun-2026-tentang-pelindungan-ketenagakerjaan-hadir-babak-baru-perlindungan-hak-pekerja-indonesia/"
+    },
+    {
+     "judul": "Surabaya Inside – Pesangon PHK berubah di UU 27/2026",
+     "url": "https://www.surabayainside.com/41791/pesangon-phk-berubah-di-uu-nomor-27-tahun-2026-pengali-05-dihapus-ini-aturan-barunya"
     },
     {
      "judul": "CNBC Indonesia – Kapan efektif berlaku?",
      "url": "https://www.cnbcindonesia.com/news/20261006151306-4-773810/uu-pelindungan-ketenagakerjaan-resmi-disahkan-kapan-efektif-berlaku"
     },
     {
-     "judul": "Bisnis – Poin-poin penting RUU",
-     "url": "https://ekonomi.bisnis.com/read/20261006/12/2010068/poin-poin-penting-ruu-pelindungan-ketenagakerjaan-yang-akan-disahkan-jadi-uu-hari-ini"
-    },
-    {
-     "judul": "Harian Muria – Naskah UU belum dipublikasikan (12 Okt)",
-     "url": "https://harianmuria.com/grobogan/naskah-uu-ketenagakerjaan-belum-dipublikasikan-buruh-grobogan-pertimbangkan-judicial-review/"
-    },
-    {
-     "judul": "Kumparan – UU Ketenagakerjaan: antara hukum dan ketidakpastian",
-     "url": "https://kumparan.com/galuh-ramadani/uu-ketenagakerjaan-antara-hukum-dan-ketidakpastian-28RTehjF0xX"
-    },
-    {
-     "judul": "JDIH BPK – cuplikan UU 13/2003 menyebut UU No. 27 Tahun 2026 (belum terkonfirmasi)",
-     "url": "https://peraturan.bpk.go.id/Details/43013/uu-no-13-tahun-2003"
+     "judul": "Kompas – DPR Sahkan UU Pelindungan Ketenagakerjaan",
+     "url": "https://nasional.kompas.com/read/2026/10/06/11043691/dpr-sahkan-uu-pelindungan-ketenagakerjaan"
     }
    ],
    "tag": [
@@ -279,7 +275,7 @@
     "cuti melahirkan",
     "ijazah"
    ],
-   "tanggal": "2026-10-06",
+   "tanggal": "2026-10-28",
    "id": "uu-pelindungan-ketenagakerjaan-2026"
   }
  ],
@@ -609,13 +605,49 @@
    ],
    "tanggal": "2026-10-27",
    "id": "ump-2027-pakai-pp"
+  },
+  {
+   "dampakHR": [
+    "Dapatkan naskah resmi dan baca pasal PKWT, pesangon, dan PHK.",
+    "Susun jadwal penyesuaian kontrak PKWT dan SOP PHK dalam masa transisi.",
+    "Bahas di LKS Bipartit dan pantau PP turunan."
+   ],
+   "diperbarui": "2026-11-07",
+   "judul": "Naskah UU 27/2026 akhirnya terbit; PKWT maks 4 tahun, 10 langkah cegah PHK",
+   "kategori": "Hubungan Industrial",
+   "lingkup": "Nasional",
+   "panas": 3,
+   "ringkasan": "Naskah UU Nomor 27 Tahun 2026 sudah terbit dan menurut Setneg berlaku sejak 28 Oktober 2026, dengan masa transisi satu tahun. Media menyoroti PKWT maksimal 4 tahun dan kewajiban perusahaan serta pemerintah mencegah PHK lewat 10 langkah. Apindo masih mempelajari, serikat buruh menerima dengan catatan.",
+   "sumber": [
+    {
+     "judul": "Kompas.id – Dokumen UU akhirnya terbit",
+     "url": "https://www.kompas.id/artikel/dokumen-uu-pelindungan-ketenagakerjaan-2026-akhirnya-terbit"
+    },
+    {
+     "judul": "Kompas – PKWT paling lama 4 tahun",
+     "url": "https://nasional.kompas.com/read/2026/11/07/00060571/uu-pelindungan-ketenagakerjaan-pkwt-paling-lama-4-tahun"
+    },
+    {
+     "judul": "Kompas – Wajib cegah PHK",
+     "url": "https://nasional.kompas.com/read/2026/11/06/15082551/uu-pelindungan-ketenagakerjaan-perusahaan-dan-pemerintah-wajib-cegah-phk"
+    }
+   ],
+   "tag": [
+    "UU 27/2026",
+    "PKWT",
+    "PHK",
+    "pesangon",
+    "masa transisi"
+   ],
+   "tanggal": "2026-11-06",
+   "id": "uu-27-2026-terbit"
   }
  ],
  "agenda": [
   {
-   "judul": "Batas 30 hari pengesahan UU Pelindungan Ketenagakerjaan",
-   "keterangan": "Batas 30 hari (Pasal 20 ayat 5 UUD 1945) sudah lewat tanggal 5 November. Nomor UU (diduga 27/2026) dan naskah resmi belum terkonfirmasi; cek JDIH setiap hari.",
-   "tanggal": "2026-11-05",
+   "judul": "UU 27/2026 diundangkan dan berlaku",
+   "keterangan": "Menurut Setneg (dikutip Kompas), UU 27/2026 ditetapkan, diundangkan, dan berlaku 28 Oktober 2026. Naskah baru terbit sekitar 6 November.",
+   "tanggal": "2026-10-28",
    "id": "batas-30-hari-uu-pk"
   },
   {
@@ -655,9 +687,9 @@
    "id": "umk-2027-berlaku"
   },
   {
-   "judul": "Perkiraan UU Pelindungan Ketenagakerjaan berlaku",
-   "keterangan": "Perkiraan saja: satu tahun setelah diundangkan. Per 21 Oktober 2026 naskah masih di Setneg dan belum bernomor, jadi tanggal ini bisa bergeser (paling cepat sekitar Oktober–November 2027).",
-   "tanggal": "2027-10-06",
+   "judul": "Akhir masa transisi UU 27/2026 (efektif penuh)",
+   "keterangan": "UU berlaku sejak 28 Okt 2026 dengan masa transisi 1 tahun. Ada sumber yang menghitung dari 6 Okt 2027; titik hitung belum terkonfirmasi, cek naskah resmi.",
+   "tanggal": "2027-10-28",
    "id": "uu-pk-berlaku"
   }
  ],
@@ -667,7 +699,7 @@
    {
     "level": "tinggi",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "Batas 30 hari UU sudah lewat; nomor diduga 27/2026 tetapi naskah resmi belum ada. Cek JDIH tiap hari, mulai data ulang kontrak PKWT dan PKB."
+    "teks": "UU 27/2026 sudah terbit dan berlaku dengan masa transisi 1 tahun. Unduh naskah resmi, data ulang kontrak PKWT (maks 4 tahun) dan siapkan SOP PHK."
    },
    {
     "level": "tinggi",
@@ -676,26 +708,26 @@
    },
    {
     "level": "sedang",
+    "ref": "trending:uu-27-2026-terbit",
+    "teks": "Aturan turunan (PP) belum terbit dan PP 35/2021 masih jadi acuan selama transisi. Pantau JDIH Kemnaker."
+   },
+   {
+    "level": "sedang",
     "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "Dewan pengupahan daerah di Jatim mulai bahas UMK 2027; usulan ke Gubernur ditargetkan sekitar 19 November. Pantau rapat Dewan Pengupahan Tuban."
+    "teks": "Dewan pengupahan Jatim bahas UMK 2027; usulan ke Gubernur ditargetkan sekitar 19 November. Pantau rapat Dewan Pengupahan Tuban."
    },
    {
     "level": "sedang",
     "ref": "trending:bsu-2026-rp900-ribu",
-    "teks": "BSU 2026 Rp900 ribu dasar aturannya Permenaker 16/2026; jadwal cair belum diumumkan Kemnaker. Cocokkan upah dan kepesertaan BPJS dengan payroll."
+    "teks": "BSU 2026 Rp900 ribu dasarnya Permenaker 16/2026; jadwal cair belum diumumkan. Cocokkan upah dan kepesertaan BPJS dengan payroll."
    },
    {
     "level": "sedang",
     "ref": "trending:outsourcing-5-bidang",
-    "teks": "Aturan outsourcing makin ketat dan perjanjian alih daya harus disesuaikan paling lambat 30 April 2028. Mulai tinjau kontrak vendor."
-   },
-   {
-    "level": "info",
-    "ref": "trending:phk-sept-2026",
-    "teks": "PHK nasional Januari–September 2026 mencapai 63.789 orang; Jawa Timur peringkat ketiga. Pastikan prosedur PHK dan pesangon sesuai aturan."
+    "teks": "Perjanjian alih daya harus disesuaikan paling lambat 30 April 2028. Mulai tinjau kontrak vendor."
    }
   ],
-  "ringkasan": "Tidak ada perubahan regulasi hari ini. Nomor UU Pelindungan Ketenagakerjaan dan naskah resminya masih belum terkonfirmasi; UMP dan UMK 2027 belum ditetapkan.",
-  "terakhirUpdate": "2026-11-07T08:00:00+07:00"
+  "ringkasan": "UU Pelindungan Ketenagakerjaan kini bernomor UU 27/2026, diundangkan dan berlaku 28 Oktober 2026 dengan masa transisi 1 tahun; naskahnya sudah terbit. UMP dan UMK 2027 belum ditetapkan.",
+  "terakhirUpdate": "2026-11-07T09:00:00+07:00"
  }
 }
