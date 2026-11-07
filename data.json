@@ -381,12 +381,12 @@
     "Siapkan jawaban standar bila serikat internal menanyakan kapan aturan baru berlaku (jawaban: menunggu pengundangan, lalu masa transisi ±1 tahun).",
     "Pantau situs MK untuk perkara pengujian setelah UU bernomor."
    ],
-   "diperbarui": "2026-10-26",
-   "judul": "Naskah UU baru masih di Setneg; serikat minta salinan dan kepastian berlaku",
+   "diperbarui": "2026-11-07",
+   "judul": "Naskah UU 27/2026 sudah terbit; serikat terima dengan catatan, Apindo masih mempelajari",
    "kategori": "Hubungan Industrial",
    "lingkup": "Nasional",
    "panas": 2,
-   "ringkasan": "Pada 21 Oktober Menaker menyatakan naskah UU Pelindungan Ketenagakerjaan masih di Setneg dan meminta publik bersabar. Di hari yang sama KBMI dan Koalisi Besar Perjuangan Buruh mendatangi Badan Komunikasi Pemerintah (Bakom) meminta salinan UU dan kepastian kapan berlaku, karena penetapan upah minimum sudah dekat. Sebelumnya serikat juga menyoroti penangguhan upah minimum, mekanisme dana pesangon, dan pengaturan pekerja platform. Belum ada permohonan uji materi ke MK yang terkonfirmasi terdaftar.",
+   "ringkasan": "Setelah naskah terbit, KSPI dan Partai Buruh menerima UU 27/2026 dengan catatan dan menyiapkan opsi uji materi ke MK (belum ada perkara terkonfirmasi). Apindo menyatakan masih mempelajari dokumen, sebelumnya mengusulkan PKWT sampai 5 tahun. Ada perbedaan angka antar media soal durasi PKWT dan jumlah pasal, jadi cocokkan dengan naskah resmi.",
    "sumber": [
     {
      "judul": "Merdeka – Bakom terima aspirasi buruh (21 Okt)",
@@ -407,7 +407,7 @@
     "Bakom",
     "uji materi"
    ],
-   "tanggal": "2026-10-21",
+   "tanggal": "2026-11-06",
    "id": "kritik-uu-baru"
   },
   {
@@ -443,14 +443,15 @@
   {
    "dampakHR": [
     "Simulasikan kenaikan liabilitas pesangon untuk laporan keuangan/aktuaria.",
-    "Pantau PP tentang dana cadangan pesangon."
+    "Siapkan ruang anggaran untuk iuran dana cadangan pesangon; besarannya menunggu PP, jadi pakai beberapa skenario.",
+    "Pantau PP dana cadangan pesangon di JDIH Kemnaker."
    ],
-   "diperbarui": "2026-10-15",
-   "judul": "Pesangon di UU baru: pengali 0,5 dihapus dan wajib dana cadangan",
+   "diperbarui": "2026-11-07",
+   "judul": "Pesangon di UU 27/2026: pengali 0,5 dihapus, wajib dana cadangan (iuran perusahaan)",
    "kategori": "PHK & Pesangon",
    "lingkup": "Nasional",
    "panas": 3,
-   "ringkasan": "Ramai dibahas bahwa pesangon minimal kini satu kali ketentuan, termasuk untuk PHK efisiensi. Pengusaha wajib menyiapkan dana cadangan pesangon (berbeda dari JKP BPJS), tetapi mekanismenya masih menunggu aturan turunan dan dipertanyakan serikat.",
+   "ringkasan": "Pesangon minimal kini satu kali ketentuan, termasuk untuk PHK efisiensi. Perusahaan wajib menyiapkan dana cadangan pesangon lewat iuran tambahan; rinciannya diserahkan ke Peraturan Pemerintah yang belum terbit. KSPI menyebut besaran iuran masih belum jelas, dan Apindo mengingatkan risiko beban arus kas perusahaan. Semua ini dari berita, belum dicocokkan dengan naskah resmi.",
    "sumber": [
     {
      "judul": "Bernas – Aturan pesangon di UU baru",
@@ -459,6 +460,14 @@
     {
      "judul": "Afu.id – Tujuh poin penting UU",
      "url": "https://afu.id/nasional/tujuh-poin-penting-uu-pelindungan-ketenagakerjaan-pkwt-pesangon-cuti-hingga-larangan-tahan-ijazah"
+    },
+    {
+     "judul": "RCTI+ – Perusahaan dikenakan iuran tambahan cadangan pesangon",
+     "url": "https://www.rctiplus.com/news/detail/ekonomi/5488730/perusahaan-akan-dikenakan-iuran-tambahan-cadangan-pesangon-di-uu-pelindungan-ketenagakerjaan"
+    },
+    {
+     "judul": "Surabaya Inside – Pesangon PHK berubah di UU 27/2026",
+     "url": "https://www.surabayainside.com/41791/pesangon-phk-berubah-di-uu-nomor-27-tahun-2026-pengali-05-dihapus-ini-aturan-barunya"
     }
    ],
    "tag": [
@@ -727,7 +736,7 @@
     "teks": "Perjanjian alih daya harus disesuaikan paling lambat 30 April 2028. Mulai tinjau kontrak vendor."
    }
   ],
-  "ringkasan": "UU Pelindungan Ketenagakerjaan kini bernomor UU 27/2026, diundangkan dan berlaku 28 Oktober 2026 dengan masa transisi 1 tahun; naskahnya sudah terbit. UMP dan UMK 2027 belum ditetapkan.",
-  "terakhirUpdate": "2026-11-07T09:00:00+07:00"
+  "ringkasan": "UU 27/2026 sudah terbit dan berlaku sejak 28 Oktober 2026 dengan masa transisi 1 tahun. Sapuan berita lain (PHK Jatim, demo, BPJS, putusan MK) tidak menemukan perkembangan baru; UMP dan UMK 2027 belum ditetapkan.",
+  "terakhirUpdate": "2026-11-07T10:30:00+07:00"
  }
 }
