@@ -346,6 +346,33 @@
   },
   {
    "dampakHR": [
+    "Anggap jadwal Kepgub UMK Jatim 2027 bisa mundur; jangan menunggu angka resmi untuk menyiapkan payroll Januari.",
+    "Tetap siapkan skenario anggaran upah (naik 5%, 7,5%, 9,5%).",
+    "Pantau pengumuman pelantikan Depenas baru dan jadwal rapat Dewan Pengupahan Tuban."
+   ],
+   "diperbarui": "2026-11-08",
+   "judul": "Depenas belum terbentuk, dewan pengupahan daerah belum bisa mulai bahas upah 2027",
+   "kategori": "Upah",
+   "lingkup": "Nasional",
+   "panas": 2,
+   "ringkasan": "Menurut laporan Bisnis (4 November), masa jabatan Dewan Pengupahan Nasional (Depenas) sudah habis dan susunan anggota baru belum disahkan. Akibatnya dewan pengupahan provinsi dan kabupaten/kota belum punya pedoman untuk mulai berunding, dan survei KHL juga belum berjalan. KSPI meminta Depenas baru segera dibentuk. Ini menambah risiko UMK 2027 terlambat ditetapkan (belum terkonfirmasi apakah anggota baru sudah dilantik).",
+   "sumber": [
+    {
+     "judul": "Bisnis – Tuntut upah layak 2027, KSPI siapkan aksi di daerah (4 Nov)",
+     "url": "https://ekonomi.bisnis.com/read/20261104/12/2018312/tuntut-upah-layak-2027-kspi-siapkan-aksi-di-daerah"
+    }
+   ],
+   "tag": [
+    "Depenas",
+    "UMK 2027",
+    "KHL",
+    "KSPI"
+   ],
+   "tanggal": "2026-11-04",
+   "id": "depenas-kosong-upah-2027"
+  },
+  {
+   "dampakHR": [
     "Pastikan pembayaran upah, pesangon, dan iuran BPJS tepat waktu karena pelanggaran kini lebih mudah diadukan ke polisi.",
     "Rapikan dokumentasi kasus PHK dan perselisihan yang sedang berjalan.",
     "Tunjuk PIC hukum/HR untuk menanggapi bila ada panggilan klarifikasi dari polres."
@@ -717,6 +744,11 @@
    },
    {
     "level": "sedang",
+    "ref": "trending:depenas-kosong-upah-2027",
+    "teks": "Depenas belum terbentuk sehingga dewan pengupahan daerah belum punya pedoman. Jadwal UMK bisa mundur; siapkan payroll Januari tanpa menunggu angka resmi."
+   },
+   {
+    "level": "sedang",
     "ref": "trending:uu-27-2026-terbit",
     "teks": "Aturan turunan (PP) belum terbit dan PP 35/2021 masih jadi acuan selama transisi. Pantau JDIH Kemnaker."
    },
@@ -727,16 +759,11 @@
    },
    {
     "level": "sedang",
-    "ref": "trending:bsu-2026-rp900-ribu",
-    "teks": "BSU 2026 Rp900 ribu dasarnya Permenaker 16/2026; jadwal cair belum diumumkan. Cocokkan upah dan kepesertaan BPJS dengan payroll."
-   },
-   {
-    "level": "sedang",
     "ref": "trending:outsourcing-5-bidang",
     "teks": "Perjanjian alih daya harus disesuaikan paling lambat 30 April 2028. Mulai tinjau kontrak vendor."
    }
   ],
-  "ringkasan": "Tidak ada perubahan regulasi hari ini. UMP dan UMK 2027 belum ditetapkan; serikat buruh meminta kenaikan 7,5–9,5% dan pengusaha (OPSI) mengusulkan 6,5–7,5%.",
-  "terakhirUpdate": "2026-11-07T18:00:00+07:00"
+  "ringkasan": "Satu isu baru: Depenas belum terbentuk sehingga dewan pengupahan daerah belum bisa mulai membahas upah 2027. Tidak ada perubahan regulasi baru; UMP dan UMK 2027 belum ditetapkan.",
+  "terakhirUpdate": "2026-11-08T07:00:00+07:00"
  }
 }
