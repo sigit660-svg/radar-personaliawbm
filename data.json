@@ -604,33 +604,37 @@
   },
   {
    "dampakHR": [
-    "Geser asumsi jadwal: Kepgub UMK Jatim 2027 kemungkinan terbit lebih lambat dari tahun lalu (belum terkonfirmasi), sehingga waktu persiapan payroll Januari makin sempit.",
-    "Siapkan tiga skenario anggaran upah 2027 (mis. naik 5%, 7,5%, 9,5% dari UMK Tuban 2026 Rp3.229.092) beserta dampaknya ke lembur, BPJS, dan THR.",
-    "Siapkan rencana komunikasi ke serikat/LKS Bipartit bahwa penyesuaian upah menunggu Kepgub resmi.",
-    "Pantau pengumuman Depenas dan Disnakertrans Jatim setiap pekan."
+    "Anggap rumus upah 2027 belum pasti: siapkan tiga skenario anggaran (naik 5%, 7,5%, 9,5% dari UMK Tuban 2026 Rp3.229.092) beserta dampaknya ke lembur, BPJS, dan THR.",
+    "Geser asumsi jadwal: Kepgub UMK Jatim 2027 kemungkinan terbit lebih lambat dari tahun lalu (belum terkonfirmasi), jadi siapkan payroll Januari tanpa menunggu angka resmi.",
+    "Siapkan komunikasi ke serikat/LKS Bipartit bahwa penyesuaian upah menunggu Kepgub resmi.",
+    "Pantau pengumuman Kemnaker, Depenas, dan Disnakertrans Jatim setiap pekan."
    ],
-   "diperbarui": "2026-11-02",
-   "judul": "UMP 2027 molor: Menaker targetkan pembahasan rampung akhir November",
+   "diperbarui": "2026-11-12",
+   "judul": "UMP 2027 belum ditetapkan; Menaker sebut rujukan UU 27/2026, sumber lain masih PP 49/2025",
    "kategori": "Upah",
    "lingkup": "Nasional",
    "panas": 3,
-   "ringkasan": "Tuntutan serikat agar UMP 2027 ditetapkan 1 November tidak terpenuhi. Pada 27 Oktober Menaker Yassierli menargetkan pembahasan di tingkat kementerian selesai pekan terakhir November 2026, lalu diteruskan ke Depenas dan dewan pengupahan daerah sebelum besaran kenaikan diumumkan. Pemerintah sedang menyiapkan estimasi KHL sesuai amanat UU baru, tetapi formula final (PP 49/2025 atau aturan baru) dan persentase kenaikan belum ditetapkan; usulan buruh 7,5–9,5% masih dikaji.",
+   "ringkasan": "Sampai 12 November belum ada angka resmi UMP 2027. Laporan CNN Indonesia (10 November) menyebut Menaker Yassierli menegaskan perhitungan UMP 2027 mengacu pada UU 27/2026, sedangkan pada Oktober Kemnaker sempat menyatakan masih memakai PP 49/2025 (rumus inflasi + pertumbuhan ekonomi x alfa 0,5–0,9). Mana yang final belum terkonfirmasi. Pembahasan internal ditargetkan rampung akhir November; serikat mengusulkan naik 7,5–9,5%, OPSI 6,5–7,5%.",
    "sumber": [
     {
-     "judul": "Investor.id – Kenaikan upah 2027 diputuskan akhir November (27 Okt)",
-     "url": "https://investor.id/macroeconomy/459613/menaker-yassierli-kenaikan-upah-2027-diputuskan-akhir-november"
+     "judul": "CNN Indonesia – Begini Rincian dan Formula UMP 2027 (10 Nov)",
+     "url": "https://cnnindonesia.com/ekonomi/20261110123537-92-1425344/begini-rincian-dan-formula-ump-2027"
     },
     {
-     "judul": "Kumparan – UMP 2027 dibahas di dewan pengupahan akhir November",
-     "url": "https://kumparan.com/kumparanbisnis/ump-2027-mulai-dibahas-di-dewan-pengupahan-akhir-november-28SJnrfFImR"
+     "judul": "Katadata – Kemenaker: upah minimum 2027 masih mengacu PP",
+     "url": "https://katadata.co.id/berita/nasional/6ac4aed0a235f/kemenaker-upah-minimum-2027-masih-mengacu-pp-bukan-uu-ketenagakerjaan-terbaru"
     },
     {
      "judul": "Katadata – Menaker target pembahasan internal tuntas November",
      "url": "https://katadata.co.id/berita/nasional/6ae076253350b/ump-2027-mulai-bergulir-menaker-target-pembahasan-internal-tuntas-november"
     },
     {
-     "judul": "Kontan – Penetapan UMP 2027 sesuai UU baru (21 Okt)",
-     "url": "https://nasional.kontan.co.id/news/menaker-pastikan-penetapan-ump-2027-sesuai-uu-perlindungan-ketenagakerjaan-baru"
+     "judul": "Bisnis – Beda suara buruh dan pengusaha soal UMP 2027 (3 Nov)",
+     "url": "https://ekonomi.bisnis.com/read/20261103/12/2017905/beda-suara-buruh-dan-pengusaha-soal-kenaikan-ump-2027"
+    },
+    {
+     "judul": "Bisnis – OPSI usul kenaikan UMP 2027 hingga 7,5% (4 Nov)",
+     "url": "https://ekonomi.bisnis.com/read/20261104/12/2018261/opsi-usul-kenaikan-ump-2027-hingga-75"
     }
    ],
    "tag": [
@@ -639,7 +643,7 @@
     "KHL",
     "Depenas"
    ],
-   "tanggal": "2026-10-27",
+   "tanggal": "2026-11-10",
    "id": "ump-2027-pakai-pp"
   },
   {
@@ -694,7 +698,7 @@
   },
   {
    "judul": "Penetapan UMK & UMSK 2027",
-   "keterangan": "Jadwal yang sempat disebut dalam pemberitaan. Karena pusat baru menargetkan pembahasan UMP rampung akhir November, penetapan UMK/UMSK Jatim kemungkinan mundur (belum terkonfirmasi). Pantau Kepgub Jatim.",
+   "keterangan": "Tanggal 10 November yang sempat disebut media sudah lewat dan belum ada pengumuman Kepgub UMK/UMSK Jatim 2027 (belum terkonfirmasi). Karena pusat baru menargetkan pembahasan UMP rampung akhir November, penetapan kemungkinan mundur. Pantau Kepgub Jatim.",
    "tanggal": "2026-11-10",
    "id": "penetapan-umk-2027"
   },
@@ -735,17 +739,22 @@
    {
     "level": "tinggi",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "UU 27/2026 sudah terbit dan berlaku dengan masa transisi 1 tahun. Unduh naskah resmi, data ulang kontrak PKWT (maks 4 tahun) dan siapkan SOP PHK."
+    "teks": "UU 27/2026 sudah berlaku dengan masa transisi 1 tahun. Unduh naskah resmi, data ulang kontrak PKWT (maks 4 tahun) dan siapkan SOP PHK."
    },
    {
     "level": "tinggi",
     "ref": "trending:ump-2027-pakai-pp",
-    "teks": "UMP 2027 ditargetkan rampung akhir November, jadi UMK Tuban 2027 kemungkinan terlambat. Siapkan 3 skenario anggaran upah (naik 5%, 7,5%, 9,5%)."
+    "teks": "Rumus UMP 2027 belum pasti: Menaker sebut UU 27/2026, sumber lain PP 49/2025. Siapkan 3 skenario anggaran upah (naik 5%, 7,5%, 9,5%)."
+   },
+   {
+    "level": "sedang",
+    "ref": "trending:umk-jatim-2027-tuntutan",
+    "teks": "Kepgub UMK Jatim 2027 belum terbit dan tenggat 10 November lewat. Pantau Dewan Pengupahan Tuban; siapkan payroll Januari tanpa menunggu angka resmi."
    },
    {
     "level": "sedang",
     "ref": "trending:depenas-kosong-upah-2027",
-    "teks": "Depenas belum terbentuk sehingga dewan pengupahan daerah belum punya pedoman. Jadwal UMK bisa mundur; siapkan payroll Januari tanpa menunggu angka resmi."
+    "teks": "Depenas belum terbentuk sehingga dewan pengupahan daerah belum punya pedoman. Jadwal UMK bisa mundur."
    },
    {
     "level": "sedang",
@@ -754,16 +763,11 @@
    },
    {
     "level": "sedang",
-    "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "Dewan pengupahan Jatim bahas UMK 2027; usulan ke Gubernur ditargetkan sekitar 19 November. Pantau rapat Dewan Pengupahan Tuban."
-   },
-   {
-    "level": "sedang",
     "ref": "trending:outsourcing-5-bidang",
     "teks": "Perjanjian alih daya harus disesuaikan paling lambat 30 April 2028. Mulai tinjau kontrak vendor."
    }
   ],
-  "ringkasan": "Tidak ada perubahan regulasi hari ini. Angka UMP dan UMK Jatim 2027 belum ditetapkan (belum terkonfirmasi), dan belum ada PP turunan UU 27/2026 maupun uji materi ke MK yang ditemukan.",
-  "terakhirUpdate": "2026-11-11T09:00:00+07:00"
+  "ringkasan": "Ada kabar baru soal dasar hukum UMP 2027: Menaker disebut mengacu ke UU 27/2026 (CNN, 10 November), berbeda dengan pernyataan Kemnaker bulan Oktober yang masih memakai PP 49/2025 (belum terkonfirmasi mana yang final). Angka UMP/UMK 2027 belum ditetapkan.",
+  "terakhirUpdate": "2026-11-12T09:00:00+07:00"
  }
 }
