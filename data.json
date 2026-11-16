@@ -350,16 +350,24 @@
     "Tetap siapkan skenario anggaran upah (naik 5%, 7,5%, 9,5%).",
     "Pantau pengumuman pelantikan Depenas baru dan jadwal rapat Dewan Pengupahan Tuban."
    ],
-   "diperbarui": "2026-11-08",
+   "diperbarui": "2026-11-16",
    "judul": "Depenas belum terbentuk, dewan pengupahan daerah belum bisa mulai bahas upah 2027",
    "kategori": "Upah",
    "lingkup": "Nasional",
    "panas": 2,
-   "ringkasan": "Menurut laporan Bisnis (4 November), masa jabatan Dewan Pengupahan Nasional (Depenas) sudah habis dan susunan anggota baru belum disahkan. Akibatnya dewan pengupahan provinsi dan kabupaten/kota belum punya pedoman untuk mulai berunding, dan survei KHL juga belum berjalan. KSPI meminta Depenas baru segera dibentuk. Ini menambah risiko UMK 2027 terlambat ditetapkan (belum terkonfirmasi apakah anggota baru sudah dilantik).",
+   "ringkasan": "Menurut CNBC Indonesia (16 November), Said Iqbal (KSPI) menyebut Menaker akan segera membentuk Dewan Pengupahan dan Tripartit Nasional yang baru, kira-kira dalam 1–2 minggu. Ia memperkirakan pengumuman kenaikan upah minimum baru terjadi awal Desember 2026, jadi bisa molor. Ini perkiraan serikat, bukan keputusan resmi pemerintah (belum terkonfirmasi). Di hari yang sama KSPI dan Partai Buruh kembali mengusulkan kenaikan 7,5–9,5%.",
    "sumber": [
     {
      "judul": "Bisnis – Tuntut upah layak 2027, KSPI siapkan aksi di daerah (4 Nov)",
      "url": "https://ekonomi.bisnis.com/read/20261104/12/2018312/tuntut-upah-layak-2027-kspi-siapkan-aksi-di-daerah"
+    },
+    {
+     "judul": "CNBC Indonesia – Said Iqbal desak upah minimum 2027 naik 9,5% (16 Nov)",
+     "url": "https://www.cnbcindonesia.com/news/20261116120444-4-785530/said-iqbal-desak-upah-minimum-2027-naik-95-ogah-pakai-indeks-07"
+    },
+    {
+     "judul": "Suara – Buruh desak UMP dan UMK 2027 naik 9,5 persen (16 Nov)",
+     "url": "https://www.suara.com/bisnis/2026/11/16/125229/buruh-desak-ump-dan-umk-2027-naik-95-persen"
     }
    ],
    "tag": [
@@ -368,7 +376,7 @@
     "KHL",
     "KSPI"
    ],
-   "tanggal": "2026-11-04",
+   "tanggal": "2026-11-16",
    "id": "depenas-kosong-upah-2027"
   },
   {
@@ -704,7 +712,7 @@
   },
   {
    "judul": "Target rampung pembahasan UMP 2027 (Kemnaker)",
-   "keterangan": "Tuntutan penetapan 1 November tidak terpenuhi. Menaker (27 Okt) menargetkan pembahasan tingkat kementerian selesai pekan terakhir November, lalu ke Depenas dan dewan pengupahan daerah. Tanggal pasti belum ada; 30 November dipakai sebagai patokan.",
+   "keterangan": "Tuntutan penetapan 1 November tidak terpenuhi. Menaker menargetkan pembahasan tingkat kementerian selesai pekan terakhir November. KSPI (16 Nov) memperkirakan pengumuman baru awal Desember (belum terkonfirmasi). 30 November dipakai sebagai patokan.",
    "tanggal": "2026-11-30",
    "id": "penetapan-ump-2027"
   },
@@ -749,12 +757,12 @@
    {
     "level": "sedang",
     "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "Kepgub UMK Jatim 2027 belum terbit. Tenggat resmi belum jelas (10 atau 25 November). Pantau Dewan Pengupahan Tuban; siapkan payroll Januari tanpa menunggu angka resmi."
+    "teks": "Kepgub UMK Jatim 2027 belum terbit. Serikat memperkirakan pengumuman awal Desember. Siapkan payroll Januari tanpa menunggu angka resmi."
    },
    {
     "level": "sedang",
     "ref": "trending:depenas-kosong-upah-2027",
-    "teks": "Depenas belum terbentuk sehingga dewan pengupahan daerah belum punya pedoman. Jadwal UMK bisa mundur."
+    "teks": "Depenas baru disebut akan dibentuk dalam 1–2 minggu (kata KSPI). Jadwal UMK bisa mundur; pantau Dewan Pengupahan Tuban."
    },
    {
     "level": "sedang",
@@ -767,7 +775,7 @@
     "teks": "Perjanjian alih daya harus disesuaikan paling lama 30 April 2028. Mulai tinjau kontrak vendor."
    }
   ],
-  "ringkasan": "Tidak ada perubahan regulasi hari ini. UMP/UMK 2027 masih belum ditetapkan; satu sumber menyebut batas pengumuman UMP 21 November dan UMK 25 November (belum terkonfirmasi), sementara angka 7,5–9,5% masih berupa usulan dan simulasi.",
-  "terakhirUpdate": "2026-11-15T09:00:00+07:00"
+  "ringkasan": "Tidak ada perubahan regulasi hari ini. Pada 16 November KSPI dan Partai Buruh kembali mengusulkan upah minimum 2027 naik 7,5–9,5% dan memperkirakan pengumuman baru awal Desember; Depenas baru disebut segera dibentuk (belum terkonfirmasi).",
+  "terakhirUpdate": "2026-11-16T09:00:00+07:00"
  }
 }
