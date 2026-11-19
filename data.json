@@ -656,6 +656,37 @@
   },
   {
    "dampakHR": [
+    "Pakai kisaran 6,5–7% sebagai skenario utama anggaran upah 2027, sambil tetap menyiapkan skenario 5,5% dan 9,5%.",
+    "Hitung dampak ke UMK Tuban (dasar Rp3.229.092): naik 6,77% menjadi sekitar Rp3,45 juta (hanya simulasi).",
+    "Pantau pengumuman UMP Jatim dan rapat Dewan Pengupahan Tuban menjelang batas UMK 25 November."
+   ],
+   "diperbarui": "2026-11-19",
+   "judul": "UMP 2027 mulai diumumkan: Sumsel naik 6,77%, Kaltim disepakati 7,02%",
+   "kategori": "Upah",
+   "lingkup": "Nasional",
+   "panas": 3,
+   "ringkasan": "Beberapa provinsi sudah mulai menetapkan UMP 2027. Sumatera Selatan menetapkan Rp4.210.059 (naik 6,77%), berlaku 1 Januari 2027. Kalimantan Timur sepakat Rp4.046.360 (naik 7,02%), pengumuman resminya dijadwalkan 21 November. Angka UMP Jawa Timur 2027 belum terkonfirmasi. Kenaikan di dua provinsi ini bisa jadi gambaran kasar arah UMK, tetapi kondisi tiap daerah berbeda.",
+   "sumber": [
+    {
+     "judul": "ANTARA – Pemprov Sumsel umumkan UMP 2027 naik menjadi Rp4.210.059",
+     "url": "https://www.antaranews.com/berita/5865699/pemprov-sumsel-umumkan-ump-2027-naik-menjadi-rp4210059"
+    },
+    {
+     "judul": "Kaltim Post – UMP Kaltim 2027 disepakati Rp4.046.360, naik 7,02 persen",
+     "url": "https://kaltimpost.jawapos.com/utama/2611190116/ump-kaltim-2027-disepakati-rp-4046360-naik-702-persen-usai-sidang-alot-tujuh-kali-skorsing"
+    }
+   ],
+   "tag": [
+    "UMP 2027",
+    "Sumsel",
+    "Kaltim",
+    "UMK 2027"
+   ],
+   "tanggal": "2026-11-19",
+   "id": "ump-2027-provinsi-mulai-umumkan"
+  },
+  {
+   "dampakHR": [
     "Dapatkan naskah resmi dan baca pasal PKWT, pesangon, dan PHK.",
     "Susun jadwal penyesuaian kontrak PKWT dan SOP PHK dalam masa transisi.",
     "Bahas di LKS Bipartit dan pantau PP turunan."
@@ -712,7 +743,7 @@
   },
   {
    "judul": "Batas penetapan UMP 2027",
-   "keterangan": "Menaker menyebut gubernur harus menetapkan UMP paling lambat 21 November 2026 (sumber: Fortune IDN, DDTC, Journal Arta). Bisa saja meleset; angka resmi belum ada.",
+   "keterangan": "Batas gubernur menetapkan UMP menurut Kemnaker: 21 November 2026. Sumsel sudah menetapkan (naik 6,77%) dan Kaltim sepakat (naik 7,02%, diumumkan 21 November). UMP Jatim belum terkonfirmasi.",
    "tanggal": "2026-11-21",
    "id": "penetapan-ump-2027"
   },
@@ -752,23 +783,23 @@
   "rekap": [
    {
     "level": "tinggi",
+    "ref": "trending:ump-2027-provinsi-mulai-umumkan",
+    "teks": "UMP 2027 mulai diumumkan: Sumsel naik 6,77%, Kaltim 7,02%. Jadikan kisaran 6,5–7% skenario utama anggaran upah, siapkan juga 5,5% dan 9,5%."
+   },
+   {
+    "level": "tinggi",
     "ref": "trending:ump-2027-pakai-pp",
-    "teks": "UMP 2027 paling lambat ditetapkan 21 November, UMK 25 November. Rumus pakai UU 27/2026 (indeks 0,5–1,0). Siapkan skenario anggaran naik 5,5%, 7,5%, 9,5%."
+    "teks": "Batas UMP 21 November, UMK 25 November, UMSK 30 November. Rumus pakai UU 27/2026. Siapkan payroll Januari agar cepat menyesuaikan."
    },
    {
     "level": "tinggi",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "UU 27/2026 sudah berlaku dengan masa transisi 1 tahun. Unduh naskah resmi, data ulang kontrak PKWT (maks 4 tahun) dan siapkan SOP PHK."
+    "teks": "UU 27/2026 sudah berlaku dengan masa transisi 1 tahun. Cocokkan dengan naskah resmi, data ulang kontrak PKWT (maks 4 tahun) dan siapkan SOP PHK."
    },
    {
     "level": "sedang",
     "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "Kepgub UMK Jatim 2027 belum terbit; batas 25 November. Siapkan payroll Januari agar bisa menyesuaikan cepat tanpa menunggu."
-   },
-   {
-    "level": "sedang",
-    "ref": "trending:depenas-kosong-upah-2027",
-    "teks": "Depenas belum jelas terbentuk; jadwal upah bisa meleset. Pantau Dewan Pengupahan Tuban dan siapkan komunikasi ke serikat."
+    "teks": "Kepgub UMK Jatim 2027 belum terbit; batas 25 November. Pantau Dewan Pengupahan Tuban dan siapkan komunikasi ke serikat."
    },
    {
     "level": "sedang",
@@ -777,11 +808,11 @@
    },
    {
     "level": "sedang",
-    "ref": "trending:outsourcing-5-bidang",
-    "teks": "Perjanjian alih daya harus disesuaikan paling lambat 30 April 2028. Mulai tinjau kontrak vendor."
+    "ref": "trending:bsu-2026-rp900-ribu",
+    "teks": "BSU Rp900 ribu belum punya tanggal cair pasti. Cek data upah BPJS karyawan bergaji ≤ Rp3,5 juta dan ingatkan waspada tautan palsu."
    }
   ],
-  "ringkasan": "Batas penetapan UMP 2027 dimajukan jadi 21 November (UMK 25 November, UMSK 30 November) dan rumus kini mengacu UU 27/2026 dengan indeks 0,5–1,0. Angka resmi UMP/UMK belum ada.",
-  "terakhirUpdate": "2026-11-18T09:00:00+07:00"
+  "ringkasan": "Provinsi mulai menetapkan UMP 2027: Sumsel naik 6,77% dan Kaltim disepakati naik 7,02%. UMP Jatim dan UMK belum ada angka resmi; tidak ada aturan baru lainnya hari ini.",
+  "terakhirUpdate": "2026-11-19T09:00:00+07:00"
  }
 }
