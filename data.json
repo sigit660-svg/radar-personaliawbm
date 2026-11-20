@@ -783,13 +783,13 @@
   "rekap": [
    {
     "level": "tinggi",
-    "ref": "trending:ump-2027-provinsi-mulai-umumkan",
-    "teks": "UMP 2027 mulai diumumkan: Sumsel naik 6,77%, Kaltim 7,02%. Jadikan kisaran 6,5–7% skenario utama anggaran upah, siapkan juga 5,5% dan 9,5%."
+    "ref": "trending:ump-2027-pakai-pp",
+    "teks": "Batas UMP besok (21 November), UMK 25 November, UMSK 30 November. Siapkan payroll Januari agar cepat menyesuaikan angka resmi."
    },
    {
     "level": "tinggi",
-    "ref": "trending:ump-2027-pakai-pp",
-    "teks": "Batas UMP 21 November, UMK 25 November, UMSK 30 November. Rumus pakai UU 27/2026. Siapkan payroll Januari agar cepat menyesuaikan."
+    "ref": "trending:ump-2027-provinsi-mulai-umumkan",
+    "teks": "Beberapa provinsi sudah umumkan UMP 2027 (Sumsel 6,77%, Kaltim 7,02%). Pakai kisaran 6,5–7% sebagai skenario utama anggaran upah, siapkan juga 5,5% dan 9,5%."
    },
    {
     "level": "tinggi",
@@ -804,7 +804,7 @@
    {
     "level": "sedang",
     "ref": "trending:uu-27-2026-terbit",
-    "teks": "Aturan turunan (PP) belum terbit dan PP 35/2021 masih jadi acuan selama transisi. Pantau JDIH Kemnaker."
+    "teks": "PP turunan belum terbit (batas 28 Oktober 2027); PP 35/2021 masih jadi acuan selama transisi. Pantau JDIH Kemnaker."
    },
    {
     "level": "sedang",
@@ -812,7 +812,7 @@
     "teks": "BSU Rp900 ribu belum punya tanggal cair pasti. Cek data upah BPJS karyawan bergaji ≤ Rp3,5 juta dan ingatkan waspada tautan palsu."
    }
   ],
-  "ringkasan": "Provinsi mulai menetapkan UMP 2027: Sumsel naik 6,77% dan Kaltim disepakati naik 7,02%. UMP Jatim dan UMK belum ada angka resmi; tidak ada aturan baru lainnya hari ini.",
-  "terakhirUpdate": "2026-11-19T09:00:00+07:00"
+  "ringkasan": "Tidak ada perubahan regulasi hari ini. UMP Jatim 2027 belum ada angka resmi; batas penetapan UMP besok, 21 November. Belum ada PP turunan UU 27/2026 maupun Permenaker baru yang terkonfirmasi.",
+  "terakhirUpdate": "2026-11-20T09:00:00+07:00"
  }
 }
