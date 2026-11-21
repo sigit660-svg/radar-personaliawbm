@@ -617,32 +617,28 @@
     "Siapkan payroll Januari 2027 agar bisa langsung menyesuaikan begitu Kepgub UMK terbit.",
     "Siapkan komunikasi ke serikat/LKS Bipartit bahwa penyesuaian upah menunggu Kepgub resmi."
    ],
-   "diperbarui": "2026-11-18",
-   "judul": "UMP 2027: batas penetapan 21 November, rumus mengacu UU 27/2026 (indeks 0,5–1,0)",
+   "diperbarui": "2026-11-21",
+   "judul": "Menaker terbitkan pedoman upah minimum 2027; UMP batas 21 November",
    "kategori": "Upah",
    "lingkup": "Nasional",
    "panas": 3,
-   "ringkasan": "Pemberitaan 16–17 November menyebut Menaker kini mengacu UU 27/2026: rumusnya pertumbuhan ekonomi, inflasi, dan indeks tertentu 0,5–1,0 (sebelumnya alfa 0,5–0,9 di PP 49/2025), plus pertimbangan KHL. Gubernur diminta menetapkan UMP paling lambat 21 November 2026; UMK paling lambat 25 November, UMSP 26 November, UMSK 30 November (tanggal turunan beda antarmedia, belum terkonfirmasi resmi). Belum ada angka final. Serikat minta naik 7,5–9,5%, OPSI 6,5–7,5% (perkiraan OPSI: sekitar 5,5% pada indeks 0,5 dan 8% pada indeks 1).",
+   "ringkasan": "Menaker Yassierli menerbitkan pedoman penghitungan upah minimum 2027 untuk para gubernur. Batas penetapan: UMP 21 November, UMK 25 November, UMSP 26 November, UMSK 30 November, dan semuanya berlaku 1 Januari 2027. Nilai alfa ditentukan Dewan Pengupahan (provinsi untuk UMP, kabupaten/kota untuk UMK); rentang alfa antarmedia berbeda (0,5–0,9 atau 0,5–1,0), jadi masih belum terkonfirmasi. Angka UMP Jatim 2027 belum terkonfirmasi. Serikat tetap minta naik 7,5–9,5%.",
    "sumber": [
     {
-     "judul": "Journal Arta – UMP 2027 pakai indeks 0,5–1,0, diumumkan 21 November (17 Nov)",
-     "url": "https://journalarta.com/news/2026/11/17/ump-2027-pakai-indeks-05-10-ump-diumumkan-21-november/"
+     "judul": "InfoPublik – Menaker terbitkan pedoman upah minimum 2027, UMP paling lambat 21 November",
+     "url": "https://infopublik.id/kategori/nasional-ekonomi-bisnis/998073/menaker-terbitkan-pedoman-upah-minimum-2027-gubernur-diminta-tetapkan-ump-paling-lambat-21-november"
     },
     {
-     "judul": "Fortune IDN – Kemnaker: UMP 2027 paling lambat 21 November",
-     "url": "https://www.fortuneidn.com/news/kemnaker-ump-2027-ditetapkan-paling-lambat-21-november-2026-00-my5jv-vmc375"
-    },
-    {
-     "judul": "DDTC – Provinsi wajib tetapkan UMP 2027 paling lambat 21 November",
-     "url": "https://news.ddtc.co.id/berita/nasional/1824175/provinsi-wajib-tetapkan-ump-2027-paling-lambat-21-november"
-    },
-    {
-     "judul": "CNN Indonesia – Begini Rincian dan Formula UMP 2027 (10 Nov)",
-     "url": "https://cnnindonesia.com/ekonomi/20261110123537-92-1425344/begini-rincian-dan-formula-ump-2027"
+     "judul": "Okezone – Formula kenaikan UMP 2027, diumumkan 21 November",
+     "url": "https://economy.okezone.com/read/2026/11/19/320/3254887/formula-kenaikan-ump-2027-diumumkan-21-november"
     },
     {
      "judul": "Bisnis – Said Iqbal tetap minta UMP 2027 naik hingga 9,5% (16 Nov)",
      "url": "https://ekonomi.bisnis.com/read/20261116/12/2021763/said-iqbal-tetap-minta-ump-2027-naik-hingga-95"
+    },
+    {
+     "judul": "DDTC – Provinsi wajib tetapkan UMP 2027 paling lambat 21 November",
+     "url": "https://news.ddtc.co.id/berita/nasional/1824175/provinsi-wajib-tetapkan-ump-2027-paling-lambat-21-november"
     }
    ],
    "tag": [
@@ -651,7 +647,7 @@
     "KHL",
     "Depenas"
    ],
-   "tanggal": "2026-11-17",
+   "tanggal": "2026-11-20",
    "id": "ump-2027-pakai-pp"
   },
   {
@@ -743,7 +739,7 @@
   },
   {
    "judul": "Batas penetapan UMP 2027",
-   "keterangan": "Batas gubernur menetapkan UMP menurut Kemnaker: 21 November 2026. Sumsel sudah menetapkan (naik 6,77%) dan Kaltim sepakat (naik 7,02%, diumumkan 21 November). UMP Jatim belum terkonfirmasi.",
+   "keterangan": "Batas gubernur menetapkan UMP menurut pedoman Menaker: hari ini, 21 November 2026. Sumsel sudah menetapkan (naik 6,77%) dan Kaltim sepakat (naik 7,02%). UMP Jatim belum terkonfirmasi per pagi ini.",
    "tanggal": "2026-11-21",
    "id": "penetapan-ump-2027"
   },
@@ -784,12 +780,12 @@
    {
     "level": "tinggi",
     "ref": "trending:ump-2027-pakai-pp",
-    "teks": "Batas UMP besok (21 November), UMK 25 November, UMSK 30 November. Siapkan payroll Januari agar cepat menyesuaikan angka resmi."
+    "teks": "Batas UMP hari ini (21 Nov), UMK 25 Nov, UMSK 30 Nov; semua berlaku 1 Januari 2027. Siapkan payroll Januari agar bisa cepat menyesuaikan angka resmi."
    },
    {
     "level": "tinggi",
     "ref": "trending:ump-2027-provinsi-mulai-umumkan",
-    "teks": "Beberapa provinsi sudah umumkan UMP 2027 (Sumsel 6,77%, Kaltim 7,02%). Pakai kisaran 6,5–7% sebagai skenario utama anggaran upah, siapkan juga 5,5% dan 9,5%."
+    "teks": "Sumsel naik 6,77% dan Kaltim 7,02%. Pakai kisaran 6,5–7% sebagai skenario utama anggaran upah, siapkan juga 5,5% dan 9,5%."
    },
    {
     "level": "tinggi",
@@ -812,7 +808,7 @@
     "teks": "BSU Rp900 ribu belum punya tanggal cair pasti. Cek data upah BPJS karyawan bergaji ≤ Rp3,5 juta dan ingatkan waspada tautan palsu."
    }
   ],
-  "ringkasan": "Tidak ada perubahan regulasi hari ini. UMP Jatim 2027 belum ada angka resmi; batas penetapan UMP besok, 21 November. Belum ada PP turunan UU 27/2026 maupun Permenaker baru yang terkonfirmasi.",
-  "terakhirUpdate": "2026-11-20T09:00:00+07:00"
+  "ringkasan": "Menaker menerbitkan pedoman upah minimum 2027; batas UMP hari ini (21 November), UMK 25 November, UMSK 30 November. Belum ada angka UMP/UMK Jatim yang terkonfirmasi dan belum ada PP turunan UU 27/2026.",
+  "terakhirUpdate": "2026-11-21T09:00:00+07:00"
  }
 }
