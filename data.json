@@ -572,12 +572,12 @@
     "Antisipasi aksi lanjutan; koordinasikan dengan serikat internal soal izin dan operasional shift.",
     "Pantau isu Raperda jaminan pesangon Jatim sebagai potensi kewajiban baru (belum terkonfirmasi dibahas DPRD)."
    ],
-   "diperbarui": "2026-11-18",
+   "diperbarui": "2026-11-22",
    "judul": "UMK Jatim 2027: buruh tuntut 5–10%, Pemprov tunggu arahan pusat",
    "kategori": "Upah",
    "lingkup": "Jawa Timur",
    "panas": 3,
-   "ringkasan": "Per 18 November belum ada Kepgub UMK 2027 untuk 38 kabupaten/kota Jatim (belum terkonfirmasi ada pengumuman). Menurut Kemnaker batas penetapan UMK kini 25 November (UMSK 30 November); jadwal 10 November yang sempat beredar sudah lewat. UMK 2026 tetap berlaku: Tuban Rp3.229.092, Gresik Rp5.195.401, Surabaya Rp5.288.796. KSPI menyiapkan aksi di daerah. Simulasi Bisnis: UMK Tuban 2027 sekitar Rp3,47 juta (naik 7,5%) hingga Rp3,54 juta (naik 9,5%); ini hanya simulasi.",
+   "ringkasan": "UMP Jatim 2027 sudah ditetapkan sekitar Rp2,73 juta (naik 11,57%) pada 21 November, tetapi Kepgub UMK 38 kabupaten/kota belum terkonfirmasi terbit. Batas penetapan UMK 25 November (UMSK 30 November). UMK 2026 masih berlaku: Tuban Rp3.229.092, Gresik Rp5.195.401, Surabaya Rp5.288.796. Karena UMP naik tinggi, UMK bisa melampaui simulasi 5–9,5%; ini baru perkiraan.",
    "sumber": [
     {
      "judul": "Detik Jatim – Aturan UM 2027 & UMK 38 daerah (22 Okt)",
@@ -683,6 +683,42 @@
   },
   {
    "dampakHR": [
+    "Naikkan skenario anggaran upah 2027: UMK Tuban bisa naik lebih tinggi dari 9,5%. Perhitungan kasar 11,57% dari Rp3.229.092 sekitar Rp3,60 juta (bukan angka resmi).",
+    "Pantau Kepgub UMK Jatim sampai 25 November dan UMSK sampai 30 November.",
+    "Hitung ulang dampak ke lembur, BPJS, THR, dan struktur skala upah.",
+    "Siapkan komunikasi ke serikat/LKS Bipartit bahwa angka UMK belum final."
+   ],
+   "diperbarui": "2026-11-22",
+   "judul": "UMP Jatim 2027 ditetapkan Rp2,73 juta, naik 11,57%",
+   "kategori": "Upah",
+   "lingkup": "Jawa Timur",
+   "panas": 3,
+   "ringkasan": "Gubernur Khofifah menetapkan UMP Jatim 2027 sebesar sekitar Rp2,73 juta per bulan, naik kira-kira Rp283 ribu atau 11,57% dari 2026, berlaku 1 Januari 2027. Kenaikannya jauh di atas angka simulasi 5–9,5% yang selama ini dipakai. Angka ini baru UMP; UMK 38 kabupaten/kota (termasuk Tuban dan Gresik) masih ditetapkan terpisah, batasnya 25 November. Nomor Kepgub yang disebut media: 100.3.3.1/757/013/2026 (belum dicek ke naskah resmi).",
+   "sumber": [
+    {
+     "judul": "ANTARA Jatim – Khofifah tetapkan UMP Jatim 2027 Rp2,73 juta",
+     "url": "https://jatim.antaranews.com/berita/1122107/gubernur-khofifah-tetapkan-ump-jatim-2027-sebesar-rp273-juta"
+    },
+    {
+     "judul": "Kompas Surabaya – UMP Jatim 2027 Rp2,73 juta, naik Rp283.000",
+     "url": "https://surabaya.kompas.com/read/2026/11/22/062350378/ump-jatim-2027-ditetapkan-rp-273-juta-naik-rp-283000"
+    },
+    {
+     "judul": "Radar Gresik – UMP Jatim 2027 naik 11,57 persen",
+     "url": "https://radargresik.jawapos.com/politik-dan-pemerintahan/2611220011/naik-1157-persen-gubernur-khofifah-resmi-tetapkan-ump-jawa-timur-2027-sebesar-rp-273-juta"
+    }
+   ],
+   "tag": [
+    "UMP 2027",
+    "Jawa Timur",
+    "Kepgub",
+    "UMK 2027"
+   ],
+   "tanggal": "2026-11-21",
+   "id": "ump-jatim-2027-rp273-juta"
+  },
+  {
+   "dampakHR": [
     "Dapatkan naskah resmi dan baca pasal PKWT, pesangon, dan PHK.",
     "Susun jadwal penyesuaian kontrak PKWT dan SOP PHK dalam masa transisi.",
     "Bahas di LKS Bipartit dan pantau PP turunan."
@@ -739,7 +775,7 @@
   },
   {
    "judul": "Batas penetapan UMP 2027",
-   "keterangan": "Batas gubernur menetapkan UMP menurut pedoman Menaker: hari ini, 21 November 2026. Sumsel sudah menetapkan (naik 6,77%) dan Kaltim sepakat (naik 7,02%). UMP Jatim belum terkonfirmasi per pagi ini.",
+   "keterangan": "UMP Jatim 2027 sudah ditetapkan Gubernur pada 21 November 2026: sekitar Rp2,73 juta (naik 11,57%), berlaku 1 Januari 2027.",
    "tanggal": "2026-11-21",
    "id": "penetapan-ump-2027"
   },
@@ -779,36 +815,31 @@
   "rekap": [
    {
     "level": "tinggi",
-    "ref": "trending:ump-2027-pakai-pp",
-    "teks": "Batas UMP hari ini (21 Nov), UMK 25 Nov, UMSK 30 Nov; semua berlaku 1 Januari 2027. Siapkan payroll Januari agar bisa cepat menyesuaikan angka resmi."
+    "ref": "trending:ump-jatim-2027-rp273-juta",
+    "teks": "UMP Jatim 2027 Rp2,73 juta, naik 11,57%, berlaku 1 Januari. Revisi anggaran upah: kenaikan UMK Tuban bisa di atas 9,5%."
    },
    {
     "level": "tinggi",
-    "ref": "trending:ump-2027-provinsi-mulai-umumkan",
-    "teks": "Sumsel naik 6,77% dan Kaltim 7,02%. Pakai kisaran 6,5–7% sebagai skenario utama anggaran upah, siapkan juga 5,5% dan 9,5%."
+    "ref": "trending:umk-jatim-2027-tuntutan",
+    "teks": "Kepgub UMK Jatim batasnya 25 November, UMSK 30 November. Pantau tiap hari dan siapkan payroll Januari serta komunikasi ke serikat."
    },
    {
     "level": "tinggi",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "UU 27/2026 sudah berlaku dengan masa transisi 1 tahun. Cocokkan dengan naskah resmi, data ulang kontrak PKWT (maks 4 tahun) dan siapkan SOP PHK."
-   },
-   {
-    "level": "sedang",
-    "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "Kepgub UMK Jatim 2027 belum terbit; batas 25 November. Pantau Dewan Pengupahan Tuban dan siapkan komunikasi ke serikat."
+    "teks": "UU 27/2026 berlaku dengan masa transisi 1 tahun. Cocokkan dengan naskah resmi, data ulang kontrak PKWT dan siapkan SOP PHK."
    },
    {
     "level": "sedang",
     "ref": "trending:uu-27-2026-terbit",
-    "teks": "PP turunan belum terbit (batas 28 Oktober 2027); PP 35/2021 masih jadi acuan selama transisi. Pantau JDIH Kemnaker."
+    "teks": "PP turunan belum terbit (batas 28 Oktober 2027); PP 35/2021 tetap jadi acuan selama transisi. Pantau JDIH Kemnaker."
    },
    {
     "level": "sedang",
     "ref": "trending:bsu-2026-rp900-ribu",
-    "teks": "BSU Rp900 ribu belum punya tanggal cair pasti. Cek data upah BPJS karyawan bergaji ≤ Rp3,5 juta dan ingatkan waspada tautan palsu."
+    "teks": "BSU Rp900 ribu belum punya tanggal cair pasti. Cek data upah BPJS karyawan bergaji ≤ Rp3,5 juta dan waspada tautan palsu."
    }
   ],
-  "ringkasan": "Menaker menerbitkan pedoman upah minimum 2027; batas UMP hari ini (21 November), UMK 25 November, UMSK 30 November. Belum ada angka UMP/UMK Jatim yang terkonfirmasi dan belum ada PP turunan UU 27/2026.",
-  "terakhirUpdate": "2026-11-21T09:00:00+07:00"
+  "ringkasan": "UMP Jatim 2027 ditetapkan sekitar Rp2,73 juta (naik 11,57%) pada 21 November. UMK dan UMSK belum terbit; belum ada PP turunan UU 27/2026.",
+  "terakhirUpdate": "2026-11-22T09:00:00+07:00"
  }
 }
