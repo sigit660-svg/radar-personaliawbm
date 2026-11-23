@@ -221,22 +221,26 @@
   {
    "berlaku": "Ditetapkan, diundangkan, dan berlaku sejak 28 Oktober 2026 menurut catatan Setneg (dikutip Kompas). Ada masa transisi 1 tahun; efektif penuh sekitar 6 atau 28 Oktober 2027 (titik hitung belum terkonfirmasi). Selama transisi PP 35/2021 masih jadi acuan; aturan pengupahan baru diperkirakan dipakai mulai upah minimum 2028.",
    "dampakHR": [
-    "Unduh naskah resmi UU 27/2026 dari JDIH Setneg/BPK dan cocokkan pasal PKWT, pesangon, dan PHK sebelum mengubah kebijakan.",
+    "Naskah resmi UU 27/2026 sudah terbit di JDIH Kemnaker; unduh dan cocokkan pasal PKWT, pesangon (termasuk Pasal 253 soal dana cadangan), dan PHK sebelum mengubah kebijakan.",
     "Inventarisasi karyawan PKWT dan hitung masa kontrak kumulatif; siapkan pola 2 tahun + maksimal 2 perpanjangan @1 tahun sebelum akhir masa transisi.",
-    "Hitung ulang potensi pesangon tanpa pengali 0,5 dan mulai rencanakan anggaran dana cadangan pesangon (detail menunggu PP).",
+    "Hitung ulang potensi pesangon tanpa pengali 0,5 dan mulai anggarkan dana cadangan pesangon; perusahaan mulai mengalihkan dana paling lambat Oktober 2027 (detail menunggu PP).",
     "Perbarui SOP PHK: terapkan 10 langkah pencegahan PHK dan anggarkan upah selama proses sampai putusan inkrah.",
     "Review PP/PKB: cuti melahirkan & keguguran berupah, larangan menahan ijazah/dokumen asli.",
     "Agendakan sosialisasi di LKS Bipartit dan pantau PP turunan di JDIH Kemnaker."
    ],
-   "diperbarui": "2026-11-07",
+   "diperbarui": "2026-11-23",
    "jenis": "UU",
    "judul": "UU Pelindungan Ketenagakerjaan",
    "lingkup": "Nasional",
    "nomor": "UU Nomor 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
    "prioritas": "tinggi",
-   "ringkasan": "UU 27/2026 disetujui DPR 6 Oktober 2026 dan menurut Setneg ditetapkan serta diundangkan 28 Oktober 2026; naskahnya baru terbit sekitar 6 November. Isi utama: PKWT maksimal 4 tahun (2 tahun + 2 kali perpanjangan @1 tahun), pengali pesangon 0,5 dihapus, wajib dana cadangan pesangon, 10 langkah wajib mencegah PHK, upah tetap dibayar sampai putusan PHK berkekuatan hukum tetap, larangan menahan ijazah, cuti melahirkan & keguguran berupah. Ada masa transisi 1 tahun. Jumlah pasal berbeda antar sumber (313 di sebagian besar, 303 di satu sumber). Aturan turunan (PP) belum terbit. Semua angka ini dari berita, belum dicocokkan dengan naskah resmi. Apindo masih mempelajari; KSPI menerima dengan catatan.",
+   "ringkasan": "UU 27/2026 disetujui DPR 6 Oktober 2026, ditetapkan dan diundangkan 28 Oktober 2026 (Setneg), dan naskah resminya kini tersedia di JDIH Kemnaker serta regulasip.id: 313 pasal dalam 23 bab, mencabut UU 13/2003 dan ketentuan ketenagakerjaan di UU Cipta Kerja. Isi utama: PKWT maksimal 4 tahun (2 tahun + 2 kali perpanjangan @1 tahun), pengali pesangon 0,5 dihapus, wajib dana cadangan pesangon (Pasal 253), 10 langkah wajib mencegah PHK, upah tetap dibayar sampai putusan PHK berkekuatan hukum tetap, larangan menahan ijazah, cuti melahirkan & keguguran berupah. Ada masa transisi 1 tahun; aturan turunan (PP) belum terbit. Angka detail sebaiknya tetap dicek langsung ke naskah resmi.",
    "status": "Berlaku",
    "sumber": [
+    {
+     "judul": "JDIH Kemnaker – UU Nomor 27 Tahun 2026 tentang Pelindungan Ketenagakerjaan",
+     "url": "https://jdih.kemnaker.go.id/peraturan/detail/3126/undang-undang-nomor-27-tahun-2026"
+    },
     {
      "judul": "Kompas.id – Dokumen UU Pelindungan Ketenagakerjaan 2026 akhirnya terbit",
      "url": "https://www.kompas.id/artikel/dokumen-uu-pelindungan-ketenagakerjaan-2026-akhirnya-terbit"
@@ -250,20 +254,12 @@
      "url": "https://nasional.kompas.com/read/2026/11/06/15082551/uu-pelindungan-ketenagakerjaan-perusahaan-dan-pemerintah-wajib-cegah-phk"
     },
     {
-     "judul": "FSP KEP SPSI – UU Nomor 27 Tahun 2026 hadir",
-     "url": "https://spkep-spsi.org/uu-nomor-27-tahun-2026-tentang-pelindungan-ketenagakerjaan-hadir-babak-baru-perlindungan-hak-pekerja-indonesia/"
-    },
-    {
-     "judul": "Surabaya Inside – Pesangon PHK berubah di UU 27/2026",
-     "url": "https://www.surabayainside.com/41791/pesangon-phk-berubah-di-uu-nomor-27-tahun-2026-pengali-05-dihapus-ini-aturan-barunya"
+     "judul": "Gebrak – Dana cadangan pesangon, pengelola belum ditentukan",
+     "url": "https://www.gebrak.id/?p=62930"
     },
     {
      "judul": "CNBC Indonesia – Kapan efektif berlaku?",
      "url": "https://www.cnbcindonesia.com/news/20261006151306-4-773810/uu-pelindungan-ketenagakerjaan-resmi-disahkan-kapan-efektif-berlaku"
-    },
-    {
-     "judul": "Kompas – DPR Sahkan UU Pelindungan Ketenagakerjaan",
-     "url": "https://nasional.kompas.com/read/2026/10/06/11043691/dpr-sahkan-uu-pelindungan-ketenagakerjaan"
     }
    ],
    "tag": [
@@ -314,35 +310,6 @@
    ],
    "tanggal": "2026-10-28",
    "id": "bsu-2026-rp900-ribu"
-  },
-  {
-   "dampakHR": [
-    "Koordinasi dengan serikat pekerja internal soal rencana keikutsertaan aksi dan pengaturan operasional.",
-    "Siapkan komunikasi ke karyawan tentang proses penetapan upah 2027."
-   ],
-   "diperbarui": "2026-10-15",
-   "judul": "Gelombang aksi buruh 15–30 Oktober, tuntut UMP/UMK 2027 naik 7,5–9,5%",
-   "kategori": "Upah",
-   "lingkup": "Nasional",
-   "panas": 3,
-   "ringkasan": "KSPI dan Partai Buruh menggelar aksi bergelombang di 38 provinsi mulai 15 Oktober menjelang penetapan UMP 2027. Selain upah, isu yang diangkat termasuk pembatasan outsourcing dan ketentuan pesangon.",
-   "sumber": [
-    {
-     "judul": "Gakorpan – Gelombang demo buruh",
-     "url": "https://www.gakorpan.com/gelombang-demo-buruh-dimulai-15-oktober-kspi-turun-di-38-provinsi-tuntut-ump-2027-naik-hingga-95-persen"
-    },
-    {
-     "judul": "IDX Channel – Tanggapan Menaker",
-     "url": "https://www.idxchannel.com/economics/buruh-minta-ump-2027-naik-hingga-95-persen-ini-kata-menaker/all"
-    }
-   ],
-   "tag": [
-    "demo",
-    "UMP 2027",
-    "KSPI"
-   ],
-   "tanggal": "2026-10-15",
-   "id": "demo-buruh-ump-2027"
   },
   {
    "dampakHR": [
@@ -478,27 +445,23 @@
   {
    "dampakHR": [
     "Simulasikan kenaikan liabilitas pesangon untuk laporan keuangan/aktuaria.",
-    "Siapkan ruang anggaran untuk iuran dana cadangan pesangon; besarannya menunggu PP, jadi pakai beberapa skenario.",
-    "Pantau PP dana cadangan pesangon di JDIH Kemnaker."
+    "Siapkan ruang anggaran untuk iuran dana cadangan pesangon mulai paling lambat Oktober 2027; besarannya menunggu PP, pakai beberapa skenario.",
+    "Pantau PP dana cadangan pesangon dan penunjukan lembaga pengelola di JDIH Kemnaker."
    ],
-   "diperbarui": "2026-11-07",
+   "diperbarui": "2026-11-23",
    "judul": "Pesangon di UU 27/2026: pengali 0,5 dihapus, wajib dana cadangan (iuran perusahaan)",
    "kategori": "PHK & Pesangon",
    "lingkup": "Nasional",
    "panas": 3,
-   "ringkasan": "Pesangon minimal kini satu kali ketentuan, termasuk untuk PHK efisiensi. Perusahaan wajib menyiapkan dana cadangan pesangon lewat iuran tambahan; rinciannya diserahkan ke Peraturan Pemerintah yang belum terbit. KSPI menyebut besaran iuran masih belum jelas, dan Apindo mengingatkan risiko beban arus kas perusahaan. Semua ini dari berita, belum dicocokkan dengan naskah resmi.",
+   "ringkasan": "Pesangon minimal kini satu kali ketentuan, termasuk untuk PHK efisiensi, dan pengali 0,5 dihapus. Perusahaan wajib menyiapkan dana cadangan pesangon (diatur Pasal 253 UU 27/2026) lewat iuran tambahan. Lembaga pengelola ditargetkan terbentuk setelah masa transisi (paling lama 1 tahun) dan perusahaan diberi tenggat hingga Oktober 2027 untuk mulai mengalihkan dana; pengelolanya belum ditetapkan (kabar soal Danantara belum terkonfirmasi). Besaran iuran dan tata caranya menunggu PP.",
    "sumber": [
     {
-     "judul": "Bernas – Aturan pesangon di UU baru",
-     "url": "https://bernas.id/nasional/news/aturan-pesangon-korban-phk-di-uu-ketenagakerjaan-baru-minimal-satu-kali-ketentua-2026-10-14"
+     "judul": "Gebrak – Perusahaan wajib siapkan dana cadangan pesangon, pengelola belum ditentukan",
+     "url": "https://www.gebrak.id/?p=62930"
     },
     {
      "judul": "Afu.id – Tujuh poin penting UU",
      "url": "https://afu.id/nasional/tujuh-poin-penting-uu-pelindungan-ketenagakerjaan-pkwt-pesangon-cuti-hingga-larangan-tahan-ijazah"
-    },
-    {
-     "judul": "RCTI+ – Perusahaan dikenakan iuran tambahan cadangan pesangon",
-     "url": "https://www.rctiplus.com/news/detail/ekonomi/5488730/perusahaan-akan-dikenakan-iuran-tambahan-cadangan-pesangon-di-uu-pelindungan-ketenagakerjaan"
     },
     {
      "judul": "Surabaya Inside – Pesangon PHK berubah di UU 27/2026",
@@ -512,32 +475,6 @@
    ],
    "tanggal": "2026-10-14",
    "id": "pesangon-uu-baru"
-  },
-  {
-   "dampakHR": [
-    "Bila ada rencana efisiensi, siapkan perhitungan hak dan dokumentasi PHK lengkap sejak awal, termasuk tahapan dirumahkan.",
-    "Pastikan pelaporan PHK ke Disnaker dan dukungan klaim JKP bagi pekerja terdampak."
-   ],
-   "diperbarui": "2026-10-26",
-   "judul": "Pabrik sepatu PWI di Lebak tutup, sekitar 1.100 pekerja di-PHK",
-   "kategori": "PHK & Pesangon",
-   "lingkup": "Nasional",
-   "panas": 1,
-   "ringkasan": "PT Parkland World Indonesia 6 di Lebak, Banten, menyelesaikan PHK terhadap sekitar 1.100 pekerja pada 23 Oktober setelah pengurangan bertahap sejak akhir 2025, dengan alasan sewa gedung habis. Disnaker setempat menyebut hak pekerja dibayar penuh. Kasus ini menambah daftar PHK di industri padat karya yang tertekan ekspor lemah dan biaya produksi naik.",
-   "sumber": [
-    {
-     "judul": "Beritasatu – PT PWI tutup pabrik di Lebak",
-     "url": "https://www.beritasatu.com/banten/3036209/pt-pwi-tutup-pabrik-di-lebak-1100-karyawan-kena-phk"
-    }
-   ],
-   "tag": [
-    "PHK",
-    "alas kaki",
-    "padat karya",
-    "Banten"
-   ],
-   "tanggal": "2026-10-23",
-   "id": "phk-pwi-lebak"
   },
   {
    "dampakHR": [
@@ -567,17 +504,53 @@
   },
   {
    "dampakHR": [
+    "Koordinasikan dengan serikat pekerja internal soal keikutsertaan aksi 25 November dan atur operasional shift agar produksi tetap aman.",
+    "Siapkan komunikasi ke karyawan bahwa penetapan UMK Tuban masih berjalan dan upah akan disesuaikan setelah Kepgub terbit.",
+    "Pantau kemungkinan revisi angka UMP/UMK dan perubahan jadwal akibat tekanan aksi."
+   ],
+   "diperbarui": "2026-11-23",
+   "judul": "Serikat tolak UMP Jatim 2027 Rp2,73 juta, siapkan demo besar 25 November",
+   "kategori": "Upah",
+   "lingkup": "Jawa Timur",
+   "panas": 3,
+   "ringkasan": "Setelah Gubernur menetapkan UMP Jatim 2027 Rp2,73 juta (naik 11,57%), serikat buruh Jatim menilai angka itu masih di bawah kebutuhan hidup layak dan menuntut revisi ke sekitar Rp3,74 juta. Mereka berencana menggelar demo besar pada 25 November, bertepatan dengan batas penetapan UMK. Di Jakarta buruh juga menolak UMP 2027 Rp6,14 juta karena dinilai memakai alfa terlalu rendah (0,775). Semua masih tuntutan, bukan keputusan resmi.",
+   "sumber": [
+    {
+     "judul": "Beritasatu – Buruh Jatim siap gelar demo besar 25 November",
+     "url": "https://www.beritasatu.com/jatim/3043141/tolak-ump-2027-buruh-jatim-siap-gelar-demo-besar-25-november"
+    },
+    {
+     "judul": "Jawa Pos – Buruh se-Jatim demo, minta UMP naik jadi Rp3,7 juta",
+     "url": "https://www.jawapos.com/surabaya-raya/2611190377/besok-buruh-se-jatim-demo-tolak-upah-murah-dan-minta-ump-naik-jadi-rp-37-juta"
+    },
+    {
+     "judul": "Sindonews – Buruh demo tolak UMP DKI 2027 Rp6,1 juta",
+     "url": "https://daerah.sindonews.com/read/1774285/6/buruh-demo-di-balai-kota-tolak-ump-dki-2027-rp61-juta-dan-tuntut-naik-di-atas-rp62-juta-1795158701"
+    }
+   ],
+   "tag": [
+    "UMP 2027",
+    "demo",
+    "KHL",
+    "Jawa Timur",
+    "25 November"
+   ],
+   "tanggal": "2026-11-22",
+   "id": "tolak-ump-jatim-2027"
+  },
+  {
+   "dampakHR": [
     "Siapkan skenario biaya upah 2027 untuk Tuban di kisaran Rp3,39–3,54 juta (naik 5–9,5%).",
     "Pantau rapat Dewan Pengupahan Kabupaten Tuban dan Kepgub Jatim menjelang 25 November.",
     "Antisipasi aksi lanjutan; koordinasikan dengan serikat internal soal izin dan operasional shift.",
     "Pantau isu Raperda jaminan pesangon Jatim sebagai potensi kewajiban baru (belum terkonfirmasi dibahas DPRD)."
    ],
-   "diperbarui": "2026-11-22",
+   "diperbarui": "2026-11-23",
    "judul": "UMK Jatim 2027: buruh tuntut 5–10%, Pemprov tunggu arahan pusat",
    "kategori": "Upah",
    "lingkup": "Jawa Timur",
    "panas": 3,
-   "ringkasan": "UMP Jatim 2027 sudah ditetapkan sekitar Rp2,73 juta (naik 11,57%) pada 21 November, tetapi Kepgub UMK 38 kabupaten/kota belum terkonfirmasi terbit. Batas penetapan UMK 25 November (UMSK 30 November). UMK 2026 masih berlaku: Tuban Rp3.229.092, Gresik Rp5.195.401, Surabaya Rp5.288.796. Karena UMP naik tinggi, UMK bisa melampaui simulasi 5–9,5%; ini baru perkiraan.",
+   "ringkasan": "UMP Jatim 2027 sudah ditetapkan Rp2,73 juta (naik 11,57%) pada 21 November, tetapi ditolak serikat yang menuntut revisi ke sekitar Rp3,74 juta dan menyiapkan demo 25 November. Kepgub UMK 38 kabupaten/kota belum terbit; batas penetapan UMK 25 November (UMSK 30 November). UMK 2026 masih berlaku: Tuban Rp3.229.092, Gresik Rp5.195.401, Surabaya Rp5.288.796. Karena UMP naik tinggi, UMK bisa melampaui simulasi 5–9,5%; ini baru perkiraan.",
    "sumber": [
     {
      "judul": "Detik Jatim – Aturan UM 2027 & UMK 38 daerah (22 Okt)",
@@ -686,14 +659,14 @@
     "Naikkan skenario anggaran upah 2027: UMK Tuban bisa naik lebih tinggi dari 9,5%. Perhitungan kasar 11,57% dari Rp3.229.092 sekitar Rp3,60 juta (bukan angka resmi).",
     "Pantau Kepgub UMK Jatim sampai 25 November dan UMSK sampai 30 November.",
     "Hitung ulang dampak ke lembur, BPJS, THR, dan struktur skala upah.",
-    "Siapkan komunikasi ke serikat/LKS Bipartit bahwa angka UMK belum final."
+    "Koordinasikan dengan serikat internal soal rencana aksi 25 November dan sampaikan bahwa angka UMK belum final."
    ],
-   "diperbarui": "2026-11-22",
+   "diperbarui": "2026-11-23",
    "judul": "UMP Jatim 2027 ditetapkan Rp2,73 juta, naik 11,57%",
    "kategori": "Upah",
    "lingkup": "Jawa Timur",
    "panas": 3,
-   "ringkasan": "Gubernur Khofifah menetapkan UMP Jatim 2027 sebesar sekitar Rp2,73 juta per bulan, naik kira-kira Rp283 ribu atau 11,57% dari 2026, berlaku 1 Januari 2027. Kenaikannya jauh di atas angka simulasi 5–9,5% yang selama ini dipakai. Angka ini baru UMP; UMK 38 kabupaten/kota (termasuk Tuban dan Gresik) masih ditetapkan terpisah, batasnya 25 November. Nomor Kepgub yang disebut media: 100.3.3.1/757/013/2026 (belum dicek ke naskah resmi).",
+   "ringkasan": "Gubernur Khofifah menetapkan UMP Jatim 2027 sekitar Rp2,73 juta per bulan, naik kira-kira Rp283 ribu atau 11,57% dari 2026, berlaku 1 Januari 2027 (Kepgub 100.3.3.1/757/013/2026). Kenaikannya jauh di atas simulasi 5–9,5%. Serikat buruh Jatim menolak angka ini, menuntut revisi ke sekitar Rp3,74 juta (sesuai KHL), dan menyiapkan demo besar 25 November. UMK 38 kabupaten/kota (termasuk Tuban dan Gresik) masih ditetapkan terpisah, batasnya 25 November.",
    "sumber": [
     {
      "judul": "ANTARA Jatim – Khofifah tetapkan UMP Jatim 2027 Rp2,73 juta",
@@ -704,8 +677,8 @@
      "url": "https://surabaya.kompas.com/read/2026/11/22/062350378/ump-jatim-2027-ditetapkan-rp-273-juta-naik-rp-283000"
     },
     {
-     "judul": "Radar Gresik – UMP Jatim 2027 naik 11,57 persen",
-     "url": "https://radargresik.jawapos.com/politik-dan-pemerintahan/2611220011/naik-1157-persen-gubernur-khofifah-resmi-tetapkan-ump-jawa-timur-2027-sebesar-rp-273-juta"
+     "judul": "Detik Jatim – UMP Jatim 2027 tembus Rp2,73 juta, berapa UMK tiap daerah?",
+     "url": "https://www.detik.com/jatim/berita/d-8765450/ump-jatim-2027-tembus-rp-2-73-juta-berapa-umk-di-tiap-daerah"
     }
    ],
    "tag": [
@@ -762,6 +735,12 @@
    "id": "batas-30-hari-uu-pk"
   },
   {
+   "judul": "Rencana demo besar buruh Jatim",
+   "keterangan": "Serikat buruh Jatim berencana menggelar aksi besar menolak UMP 2027 Rp2,73 juta dan menuntut revisi ke sekitar Rp3,74 juta, bertepatan dengan batas penetapan UMK. Koordinasikan izin dan operasional shift.",
+   "tanggal": "2026-11-25",
+   "id": "demo-buruh-jatim-25nov"
+  },
+  {
    "judul": "Gelombang aksi buruh dimulai",
    "keterangan": "Berlangsung bergelombang sampai 30 Oktober di 38 provinsi.",
    "tanggal": "2026-10-15",
@@ -769,7 +748,7 @@
   },
   {
    "judul": "Batas penetapan UMK 2027",
-   "keterangan": "Batas UMK menurut Kemnaker 25 November (UMSP 26 November). Tanggal 10 November yang sempat disebut media sudah lewat. Pantau Kepgub Jatim; belum terkonfirmasi untuk Tuban.",
+   "keterangan": "Batas penetapan UMK menurut Kemnaker 25 November (UMSP 26 November, UMSK 30 November). Per 23 November Kepgub UMK Jatim 2027 (38 kab/kota, termasuk Tuban) belum terbit. UMP Jatim 2027 sudah ditetapkan Rp2,73 juta.",
    "tanggal": "2026-11-25",
    "id": "penetapan-umk-2027"
   },
@@ -815,31 +794,36 @@
   "rekap": [
    {
     "level": "tinggi",
-    "ref": "trending:ump-jatim-2027-rp273-juta",
-    "teks": "UMP Jatim 2027 Rp2,73 juta, naik 11,57%, berlaku 1 Januari. Revisi anggaran upah: kenaikan UMK Tuban bisa di atas 9,5%."
+    "ref": "trending:umk-jatim-2027-tuntutan",
+    "teks": "Kepgub UMK Jatim 2027 belum terbit, batas 25 November (UMSK 30 November). Pantau tiap hari dan siapkan payroll Januari."
    },
    {
     "level": "tinggi",
-    "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "Kepgub UMK Jatim batasnya 25 November, UMSK 30 November. Pantau tiap hari dan siapkan payroll Januari serta komunikasi ke serikat."
+    "ref": "trending:ump-jatim-2027-rp273-juta",
+    "teks": "UMP Jatim 2027 Rp2,73 juta (naik 11,57%); karena UMP naik tinggi, UMK Tuban bisa naik di atas 9,5%. Siapkan skenario anggaran."
    },
    {
     "level": "tinggi",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "UU 27/2026 berlaku dengan masa transisi 1 tahun. Cocokkan dengan naskah resmi, data ulang kontrak PKWT dan siapkan SOP PHK."
+    "teks": "Naskah resmi UU 27/2026 (313 pasal) sudah terbit di JDIH Kemnaker; cocokkan pasal PKWT, pesangon, dan PHK sebelum ubah kebijakan."
    },
    {
     "level": "sedang",
-    "ref": "trending:uu-27-2026-terbit",
-    "teks": "PP turunan belum terbit (batas 28 Oktober 2027); PP 35/2021 tetap jadi acuan selama transisi. Pantau JDIH Kemnaker."
+    "ref": "trending:tolak-ump-jatim-2027",
+    "teks": "Serikat tolak UMP 2027 dan rencana demo besar 25 November; koordinasikan izin dan operasional shift dengan serikat internal."
    },
    {
     "level": "sedang",
-    "ref": "trending:bsu-2026-rp900-ribu",
-    "teks": "BSU Rp900 ribu belum punya tanggal cair pasti. Cek data upah BPJS karyawan bergaji ≤ Rp3,5 juta dan waspada tautan palsu."
+    "ref": "trending:pesangon-uu-baru",
+    "teks": "Dana cadangan pesangon (Pasal 253) wajib; perusahaan mulai mengalihkan dana paling lambat Oktober 2027, pengelola belum ditetapkan. Siapkan anggaran."
+   },
+   {
+    "level": "sedang",
+    "ref": "regulasi:permenaker-16-2026",
+    "teks": "BSU Rp900 ribu untuk upah di bawah Rp3,5 juta belum ada tanggal cair pasti; rapikan data upah BPJS dan waspada tautan palsu."
    }
   ],
-  "ringkasan": "UMP Jatim 2027 ditetapkan sekitar Rp2,73 juta (naik 11,57%) pada 21 November. UMK dan UMSK belum terbit; belum ada PP turunan UU 27/2026.",
-  "terakhirUpdate": "2026-11-22T09:00:00+07:00"
+  "ringkasan": "UMP Jatim 2027 Rp2,73 juta (naik 11,57%) ditolak serikat; buruh Jatim siapkan demo besar 25 November dan minta revisi ke sekitar Rp3,74 juta. Kepgub UMK 38 kabupaten/kota (termasuk Tuban) belum terbit, batas 25 November. Naskah resmi UU 27/2026 kini tersedia di JDIH Kemnaker.",
+  "terakhirUpdate": "2026-11-23T09:00:00+07:00"
  }
 }
