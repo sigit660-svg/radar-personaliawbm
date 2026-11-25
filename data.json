@@ -39,6 +39,47 @@
    "id": "kepgub-jatim-umk-2026"
   },
   {
+   "berlaku": "1 Januari 2027",
+   "dampakHR": [
+    "Pakai UMK Tuban 2027 Rp3.413.111 sebagai dasar upah minimum pekerja masa kerja <1 tahun di pabrik Widang/Tuban mulai 1 Januari 2027.",
+    "Perbarui master payroll Januari 2027; pastikan tidak ada upah pokok + tunjangan tetap di bawah Rp3.413.111.",
+    "Hitung ulang dampak kenaikan ~5% ke upah lembur, iuran BPJS, dan dasar perhitungan THR 2027.",
+    "Tinjau struktur & skala upah agar selisih pekerja masa kerja >=1 tahun tetap wajar setelah UMK naik.",
+    "Cek apakah sektor usaha perusahaan termasuk UMSK (ditetapkan terpisah, batas 30 November)."
+   ],
+   "diperbarui": "2026-11-25",
+   "jenis": "Keputusan Gubernur",
+   "judul": "Keputusan Gubernur Jatim tentang UMK 2027",
+   "lingkup": "Jawa Timur",
+   "nomor": "Kepgub Jatim No. 100.3.3.1/778/013/2026",
+   "prioritas": "tinggi",
+   "ringkasan": "UMK 2027 untuk 38 kabupaten/kota di Jawa Timur ditetapkan pada 25 November 2026 lewat Kepgub No. 100.3.3.1/778/013/2026, ditandatangani Plt Gubernur Emil Elestianto Dardak. UMK Tuban 2027 sebesar Rp3.413.111 (naik Rp184.019 atau sekitar 5% dari Rp3.229.092), menempati peringkat ke-11 tertinggi. Surabaya tertinggi Rp5.659.011,72; daerah terendah setara UMP yaitu Rp2.730.000. Penetapan mempertimbangkan kesepakatan dewan pengupahan di 29 dari 38 daerah. UMK berlaku mulai 1 Januari 2027.",
+   "status": "Disahkan, belum berlaku",
+   "sumber": [
+    {
+     "judul": "Kabar Tuban - UMK Tuban 2027 tembus Rp3,4 juta",
+     "url": "https://kabartuban.com/naik-5-persen-umk-tuban-tembus-rp34-juta/42482"
+    },
+    {
+     "judul": "Bisnis Surabaya - UMK Jatim 2027, Surabaya tertinggi Rp5,65 juta, terendah Rp2,73 juta",
+     "url": "https://surabaya.bisnis.com/read/20261125/532/2024479/umk-jatim-2027-surabaya-tertinggi-rp565-juta-terendah-rp273-juta"
+    },
+    {
+     "judul": "Jawa Pos - Daftar lengkap UMK 38 kabupaten/kota Jatim per 2027, Surabaya tertinggi",
+     "url": "https://www.jawapos.com/berita-daerah/2611250419/resmi-berikut-daftar-lengkap-umk-38-kabupatenkota-jatim-per-2027-surabaya-tertinggi"
+    }
+   ],
+   "tag": [
+    "UMK 2027",
+    "Tuban",
+    "Surabaya",
+    "Gresik",
+    "Kepgub"
+   ],
+   "tanggal": "2026-11-25",
+   "id": "kepgub-jatim-umk-2027"
+  },
+  {
    "berlaku": "3 Juli 2026",
    "dampakHR": [
     "Pastikan akun SIAPkerja perusahaan aktif dan data wajib lapor ketenagakerjaan mutakhir.",
@@ -478,42 +519,16 @@
   },
   {
    "dampakHR": [
-    "Pastikan setiap PHK dilaporkan dan pekerja yang memenuhi syarat dibantu klaim JKP.",
-    "Gunakan data ini sebagai konteks saat berdialog dengan serikat soal efisiensi."
+    "Koordinasikan dengan serikat pekerja internal soal keikutsertaan aksi dan atur operasional shift agar produksi tetap aman.",
+    "Sampaikan ke karyawan bahwa UMK Tuban sudah final (Rp3.413.111) dan upah disesuaikan mulai Januari 2027.",
+    "Pantau kemungkinan tuntutan revisi atau gugatan buruh atas UMP/UMK 2027."
    ],
-   "diperbarui": "2026-10-19",
-   "judul": "Kemnaker: 63.789 pekerja kena PHK Januari–September 2026, Jatim peringkat 3",
-   "kategori": "PHK & Pesangon",
-   "lingkup": "Nasional",
-   "panas": 2,
-   "ringkasan": "Data laporan PHK di sistem JKP mencatat 63.789 pekerja terdampak sampai September 2026. Jawa Barat terbanyak (13.044), disusul Banten (7.733) dan Jawa Timur (6.154).",
-   "sumber": [
-    {
-     "judul": "CNN Indonesia – 63.789 orang kena PHK",
-     "url": "https://www.cnnindonesia.com/ekonomi/20261011111129-92-1414020/kemnaker-63789-orang-kena-phk-hingga-september-2026-jabar-terbanyak"
-    }
-   ],
-   "tag": [
-    "PHK",
-    "JKP",
-    "data Kemnaker",
-    "Jawa Timur"
-   ],
-   "tanggal": "2026-10-11",
-   "id": "phk-sept-2026"
-  },
-  {
-   "dampakHR": [
-    "Koordinasikan dengan serikat pekerja internal soal keikutsertaan aksi 25 November dan atur operasional shift agar produksi tetap aman.",
-    "Siapkan komunikasi ke karyawan bahwa penetapan UMK Tuban masih berjalan dan upah akan disesuaikan setelah Kepgub terbit.",
-    "Pantau kemungkinan revisi angka UMP/UMK dan perubahan jadwal akibat tekanan aksi."
-   ],
-   "diperbarui": "2026-11-23",
-   "judul": "Serikat tolak UMP Jatim 2027 Rp2,73 juta, siapkan demo besar 25 November",
+   "diperbarui": "2026-11-25",
+   "judul": "Serikat tolak UMP Jatim 2027 Rp2,73 juta; aksi bertepatan penetapan UMK",
    "kategori": "Upah",
    "lingkup": "Jawa Timur",
    "panas": 3,
-   "ringkasan": "Setelah Gubernur menetapkan UMP Jatim 2027 Rp2,73 juta (naik 11,57%), serikat buruh Jatim menilai angka itu masih di bawah kebutuhan hidup layak dan menuntut revisi ke sekitar Rp3,74 juta. Mereka berencana menggelar demo besar pada 25 November, bertepatan dengan batas penetapan UMK. Di Jakarta buruh juga menolak UMP 2027 Rp6,14 juta karena dinilai memakai alfa terlalu rendah (0,775). Semua masih tuntutan, bukan keputusan resmi.",
+   "ringkasan": "Serikat buruh Jatim menolak UMP 2027 Rp2,73 juta karena dinilai di bawah kebutuhan hidup layak (menuntut revisi ke sekitar Rp3,74 juta) dan menjadwalkan aksi besar 25 November, bertepatan dengan hari penetapan UMK 2027. Pada hari yang sama Pemprov menetapkan UMK 38 daerah (Tuban Rp3,41 juta, Surabaya Rp5,66 juta, terendah Rp2,73 juta). Pelaksanaan dan skala aksi 25 November belum terkonfirmasi dari pemberitaan terbaru; buruh berpeluang tetap menuntut revisi.",
    "sumber": [
     {
      "judul": "Beritasatu – Buruh Jatim siap gelar demo besar 25 November",
@@ -535,52 +550,43 @@
     "Jawa Timur",
     "25 November"
    ],
-   "tanggal": "2026-11-22",
+   "tanggal": "2026-11-25",
    "id": "tolak-ump-jatim-2027"
   },
   {
    "dampakHR": [
-    "Pakai usulan UMK Tuban 2027 ~Rp3,41 juta sebagai skenario dasar anggaran upah, tetapi siapkan juga skenario lebih tinggi karena Gubernur bisa menaikkan (UMP naik 11,57%).",
-    "Siapkan payroll Januari 2027 agar langsung bisa menyesuaikan begitu Kepgub UMK terbit (batas 25 November).",
-    "Hitung ulang dampak kenaikan UMK ke lembur, iuran BPJS, dan THR.",
-    "Pantau rapat Dewan Pengupahan Tuban dan pengumuman Gubernur; koordinasikan dengan serikat internal soal rencana aksi 25 November."
+    "Kunci angka payroll Januari 2027 Tuban ke Rp3.413.111 dan terapkan ke seluruh pekerja masa kerja <1 tahun.",
+    "Hitung ulang upah lembur, iuran BPJS, dan dasar THR 2027 memakai UMK baru.",
+    "Siapkan pengumuman internal: UMK sudah final, upah disesuaikan mulai Januari 2027.",
+    "Pantau penetapan UMSK (batas 30 November) untuk sektor tertentu di Tuban/Gresik."
    ],
-   "diperbarui": "2026-11-24",
-   "judul": "UMK Jatim 2027: usulan daerah masuk, Tuban ~Rp3,41 juta, Kepgub batas 25 November",
+   "diperbarui": "2026-11-25",
+   "judul": "UMK Jatim 2027 ditetapkan: Tuban Rp3,41 juta, Surabaya Rp5,66 juta",
    "kategori": "Upah",
    "lingkup": "Jawa Timur",
    "panas": 3,
-   "ringkasan": "Usulan UMK 2027 dari kabupaten/kota mulai masuk ke Gubernur menjelang batas penetapan 25 November. Dewan Pengupahan Kabupaten Tuban menyepakati usulan sekitar Rp3,41 juta (naik kira-kira 5,7% dari Rp3.229.092); usulan serikat yang lebih tinggi kalah voting. Pemkot Surabaya mengusulkan ~Rp5,6 juta (versi Dewan Pengupahan), sedangkan buruh/FSPMI meminta Rp6.035.680. Bangkalan sepakat naik Rp200.451 (±7,9%). Semua ini masih usulan daerah; angka final ditetapkan Gubernur lewat Kepgub dan per 24 November belum terbit.",
+   "ringkasan": "Pada 25 November 2026 (hari batas penetapan), Pemprov Jatim menetapkan UMK 2027 untuk 38 kabupaten/kota lewat Kepgub No. 100.3.3.1/778/013/2026 yang ditandatangani Plt Gubernur Emil Dardak. UMK Tuban Rp3.413.111 (naik Rp184.019 atau ~5% dari Rp3.229.092), peringkat ke-11. Surabaya tertinggi Rp5.659.011,72; daerah terendah setara UMP Rp2.730.000. Penetapan mengacu kesepakatan dewan pengupahan di 29 dari 38 daerah. UMK berlaku 1 Januari 2027. Angka Tuban sesuai usulan dewan pengupahan, lebih rendah dari tuntutan serikat.",
    "sumber": [
     {
-     "judul": "Radar Tuban – Buruh kalah voting, UMK Tuban 2027 disepakati naik jadi Rp3,41 juta",
-     "url": "https://radartuban.jawapos.com/daerah/2611210018/buruh-kalah-voting-umk-tuban-2027-disepakati-naik-jadi-rp-3413-juta"
+     "judul": "Kabar Tuban - UMK Tuban 2027 tembus Rp3,4 juta",
+     "url": "https://kabartuban.com/naik-5-persen-umk-tuban-tembus-rp34-juta/42482"
     },
     {
-     "judul": "Kompas Surabaya – Pemkot Surabaya serahkan usulan UMK 2027 Rp5,6 juta ke Gubernur",
-     "url": "https://surabaya.kompas.com/read/2026/11/20/155818178/besok-pemkot-surabaya-serahkan-usulan-umk-2027-rp-6-juta-ke-gubernur"
+     "judul": "Bisnis Surabaya - UMK Jatim 2027, Surabaya tertinggi Rp5,65 juta, terendah Rp2,73 juta",
+     "url": "https://surabaya.bisnis.com/read/20261125/532/2024479/umk-jatim-2027-surabaya-tertinggi-rp565-juta-terendah-rp273-juta"
     },
     {
-     "judul": "JPNN Jatim – Pemkot Surabaya usulkan UMK 2027 naik menjadi Rp5,6 juta",
-     "url": "https://jatim.jpnn.com/jatim-terkini/50470/pemkot-surabaya-usulkan-umk-2027-naik-menjadi-rp56-juta"
-    },
-    {
-     "judul": "journalarta – UMK Bangkalan 2027 naik Rp200.451",
-     "url": "https://journalarta.com/news/2026/11/20/umk-bangkalan-2027-naik-rp200-451/"
-    },
-    {
-     "judul": "Detik Jatim – UMP Jatim 2027 Rp2,73 juta, berapa UMK tiap daerah?",
-     "url": "https://www.detik.com/jatim/berita/d-8765450/ump-jatim-2027-tembus-rp-2-73-juta-berapa-umk-di-tiap-daerah"
+     "judul": "Jawa Pos - Daftar lengkap UMK 38 kabupaten/kota Jatim per 2027",
+     "url": "https://www.jawapos.com/berita-daerah/2611250419/resmi-berikut-daftar-lengkap-umk-38-kabupatenkota-jatim-per-2027-surabaya-tertinggi"
     }
    ],
    "tag": [
     "UMK 2027",
     "Tuban",
     "Surabaya",
-    "Bangkalan",
-    "usulan"
+    "Kepgub"
    ],
-   "tanggal": "2026-11-21",
+   "tanggal": "2026-11-25",
    "id": "umk-jatim-2027-tuntutan"
   },
   {
@@ -661,12 +667,12 @@
     "Hitung ulang dampak ke lembur, BPJS, THR, dan struktur skala upah.",
     "Koordinasikan dengan serikat internal soal rencana aksi 25 November dan sampaikan bahwa angka UMK belum final."
    ],
-   "diperbarui": "2026-11-23",
+   "diperbarui": "2026-11-25",
    "judul": "UMP Jatim 2027 ditetapkan Rp2,73 juta, naik 11,57%",
    "kategori": "Upah",
    "lingkup": "Jawa Timur",
    "panas": 3,
-   "ringkasan": "Gubernur Khofifah menetapkan UMP Jatim 2027 sekitar Rp2,73 juta per bulan, naik kira-kira Rp283 ribu atau 11,57% dari 2026, berlaku 1 Januari 2027 (Kepgub 100.3.3.1/757/013/2026). Kenaikannya jauh di atas simulasi 5–9,5%. Serikat buruh Jatim menolak angka ini, menuntut revisi ke sekitar Rp3,74 juta (sesuai KHL), dan menyiapkan demo besar 25 November. UMK 38 kabupaten/kota (termasuk Tuban dan Gresik) masih ditetapkan terpisah, batasnya 25 November.",
+   "ringkasan": "Gubernur Khofifah menetapkan UMP Jatim 2027 sekitar Rp2,73 juta per bulan (Kepgub 100.3.3.1/757/013/2026), naik kira-kira Rp283 ribu atau 11,57% dari 2026, berlaku 1 Januari 2027. Menyusul itu, UMK 38 kabupaten/kota juga sudah ditetapkan pada 25 November lewat Kepgub No. 100.3.3.1/778/013/2026: Tuban Rp3.413.111 (naik ~5%), Surabaya tertinggi Rp5.659.011,72, terendah setara UMP. Serikat buruh menolak UMP dan sebagian menuntut revisi ke sekitar Rp3,74 juta.",
    "sumber": [
     {
      "judul": "ANTARA Jatim – Khofifah tetapkan UMP Jatim 2027 Rp2,73 juta",
@@ -736,7 +742,7 @@
   },
   {
    "judul": "Rencana demo besar buruh Jatim",
-   "keterangan": "Serikat buruh Jatim berencana menggelar aksi besar 25 November menolak UMP 2027 Rp2,73 juta dan mengawal usulan UMK; sebagian aksi digelar di pemkab/pemkot masing-masing dan di kantor Gubernur, bertepatan dengan batas penetapan UMK. Koordinasikan izin dan operasional shift.",
+   "keterangan": "Aksi buruh Jatim dijadwalkan 25 November menolak UMP 2027 Rp2,73 juta dan mengawal UMK, sebagian di pemkab/pemkot dan kantor Gubernur, bertepatan dengan hari penetapan UMK 2027. Pelaksanaan dan skala terbaru belum terkonfirmasi dari pemberitaan. Koordinasikan izin dan operasional shift.",
    "tanggal": "2026-11-25",
    "id": "demo-buruh-jatim-25nov"
   },
@@ -748,7 +754,7 @@
   },
   {
    "judul": "Batas penetapan UMK 2027",
-   "keterangan": "Batas penetapan UMK 2027 oleh Gubernur: 25 November (UMSP 26, UMSK 30). Usulan daerah sudah masuk: Dewan Pengupahan Tuban ~Rp3,41 juta, Pemkot Surabaya ~Rp5,6 juta (buruh minta Rp6,04 juta), Bangkalan naik Rp200.451. Per 24 November Kepgub UMK Jatim (38 kab/kota, termasuk Tuban) belum terbit.",
+   "keterangan": "UMK 2027 untuk 38 kabupaten/kota ditetapkan 25 November 2026 lewat Kepgub No. 100.3.3.1/778/013/2026 (ditandatangani Plt Gubernur Emil Dardak). Tuban Rp3.413.111 (naik ~5%), Surabaya tertinggi Rp5.659.011,72, daerah terendah setara UMP Rp2.730.000. Berlaku 1 Januari 2027. UMSK sektor tertentu menyusul, batas 30 November.",
    "tanggal": "2026-11-25",
    "id": "penetapan-umk-2027"
   },
@@ -794,36 +800,36 @@
   "rekap": [
    {
     "level": "tinggi",
+    "ref": "regulasi:kepgub-jatim-umk-2027",
+    "teks": "UMK Tuban 2027 ditetapkan Rp3.413.111 (naik ~5%); kunci angka payroll Januari dan sesuaikan lembur, BPJS, serta THR."
+   },
+   {
+    "level": "tinggi",
     "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "Usulan UMK Tuban 2027 ~Rp3,41 juta (Dewan Pengupahan); Kepgub Gubernur batas 25 November belum terbit. Siapkan payroll Januari sekarang."
-   },
-   {
-    "level": "tinggi",
-    "ref": "trending:ump-jatim-2027-rp273-juta",
-    "teks": "UMP Jatim 2027 Rp2,73 juta (naik 11,57%); karena UMP naik tinggi, siapkan skenario UMK Tuban bisa di atas usulan awal."
-   },
-   {
-    "level": "tinggi",
-    "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "Naskah resmi UU 27/2026 (313 pasal) sudah di JDIH Kemnaker; cocokkan pasal PKWT, pesangon, dan PHK sebelum ubah kebijakan."
+    "teks": "UMK 38 daerah Jatim 2027 sudah terbit (Kepgub 778, 25 Nov); UMSK sektor tertentu menyusul, batas 30 November, cek sektor perusahaan."
    },
    {
     "level": "sedang",
-    "ref": "trending:tolak-ump-jatim-2027",
-    "teks": "Demo buruh Jatim 25 November (di pemkab/pemkot dan kantor Gubernur); koordinasikan izin dan atur operasional shift."
+    "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
+    "teks": "UU 27/2026 berlaku dengan masa transisi 1 tahun; cocokkan pasal PKWT, pesangon, dan PHK sebelum mengubah kebijakan."
    },
    {
     "level": "sedang",
     "ref": "trending:pesangon-uu-baru",
-    "teks": "Dana cadangan pesangon (Pasal 253) wajib, mulai dialihkan paling lambat Oktober 2027; pengelola belum ditetapkan (kabar Danantara dibantah). Siapkan anggaran."
+    "teks": "Dana cadangan pesangon (Pasal 253) wajib, mulai dialihkan paling lambat Oktober 2027; anggarkan walau besaran menunggu PP."
    },
    {
     "level": "sedang",
+    "ref": "trending:tolak-ump-jatim-2027",
+    "teks": "Aksi buruh 25 November bertepatan penetapan UMK; koordinasikan izin dan atur operasional shift, pantau tuntutan revisi."
+   },
+   {
+    "level": "info",
     "ref": "regulasi:permenaker-16-2026",
-    "teks": "BSU Rp900 ribu belum cair dan jadwalnya belum pasti (rencana Nov–Des); rapikan data upah BPJS dan waspada tautan palsu."
+    "teks": "BSU Rp900 ribu belum cair dan jadwalnya belum pasti (rencana Nov-Des); rapikan data upah BPJS, waspadai tautan palsu."
    }
   ],
-  "ringkasan": "Usulan UMK Jatim 2027 mulai masuk menjelang batas penetapan 25 November: Dewan Pengupahan Tuban menyepakati usulan sekitar Rp3,41 juta (naik ±5,7%), Pemkot Surabaya usul ~Rp5,6 juta (buruh minta Rp6,04 juta). Kepgub UMK Gubernur belum terbit. BSU 2026 Rp900 ribu juga belum cair; Menaker belum bisa memastikan jadwalnya.",
-  "terakhirUpdate": "2026-11-24T09:00:00+07:00"
+  "ringkasan": "UMK Jatim 2027 resmi ditetapkan 25 November lewat Kepgub No. 100.3.3.1/778/013/2026 (Plt Gubernur Emil Dardak): UMK Tuban Rp3.413.111 (naik ~5%), Surabaya tertinggi Rp5.659.011,72, daerah terendah setara UMP Rp2,73 juta, berlaku 1 Januari 2027. HR pabrik Widang/Tuban perlu mengunci angka payroll Januari ke Rp3.413.111.",
+  "terakhirUpdate": "2026-11-25T09:30:00+07:00"
  }
 }
