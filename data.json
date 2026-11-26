@@ -766,7 +766,7 @@
   },
   {
    "judul": "Batas penetapan UMSK 2027",
-   "keterangan": "Beberapa media menyebut UMSK paling lambat 30 November (belum terkonfirmasi resmi). Cek apakah ada sektor di Gresik/Tuban yang mendapat UMSK.",
+   "keterangan": "UMSK (upah minimum sektoral) 2027 ditetapkan terpisah dari UMK, dengan batas sekitar 30 November. Per 26 November, UMSK Jatim 2027 belum diumumkan; sejumlah media menyebut nasib UMSK (termasuk Tuban) masih menunggu keputusan. Cek apakah ada sektor di Gresik/Tuban yang mendapat UMSK agar upah sektor itu tidak di bawah ketentuan.",
    "tanggal": "2026-11-30",
    "id": "penetapan-umsk-2027"
   },
@@ -801,35 +801,35 @@
    {
     "level": "tinggi",
     "ref": "regulasi:kepgub-jatim-umk-2027",
-    "teks": "UMK Tuban 2027 ditetapkan Rp3.413.111 (naik ~5%); kunci angka payroll Januari dan sesuaikan lembur, BPJS, serta THR."
+    "teks": "UMK Tuban 2027 final Rp3.413.111 (naik ~5%); kunci angka ini di payroll Januari dan hitung ulang lembur, BPJS, serta THR."
    },
    {
-    "level": "tinggi",
-    "ref": "trending:umk-jatim-2027-tuntutan",
-    "teks": "UMK 38 daerah Jatim 2027 sudah terbit (Kepgub 778, 25 Nov); UMSK sektor tertentu menyusul, batas 30 November, cek sektor perusahaan."
+    "level": "sedang",
+    "ref": "agenda:penetapan-umsk-2027",
+    "teks": "UMSK sektoral Jatim 2027 ditunggu paling lambat 30 November; cek apakah sektor pabrik Tuban/Gresik dapat UMSK agar upah tidak kurang."
    },
    {
     "level": "sedang",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "UU 27/2026 berlaku dengan masa transisi 1 tahun; cocokkan pasal PKWT, pesangon, dan PHK sebelum mengubah kebijakan."
+    "teks": "UU 27/2026 berlaku dengan transisi 1 tahun; cocokkan pasal PKWT, pesangon, dan PHK sebelum ubah kebijakan."
    },
    {
     "level": "sedang",
     "ref": "trending:pesangon-uu-baru",
-    "teks": "Dana cadangan pesangon (Pasal 253) wajib, mulai dialihkan paling lambat Oktober 2027; anggarkan walau besaran menunggu PP."
+    "teks": "Dana cadangan pesangon (Pasal 253) wajib, mulai dialihkan paling lambat Oktober 2027; anggarkan walau PP dan besaran iuran belum terbit."
    },
    {
-    "level": "sedang",
+    "level": "info",
     "ref": "trending:tolak-ump-jatim-2027",
-    "teks": "Aksi buruh 25 November bertepatan penetapan UMK; koordinasikan izin dan atur operasional shift, pantau tuntutan revisi."
+    "teks": "Serikat menolak UMP Rp2,73 juta dan berpeluang menuntut revisi/gugatan; pantau dan koordinasikan dengan serikat internal."
    },
    {
     "level": "info",
     "ref": "regulasi:permenaker-16-2026",
-    "teks": "BSU Rp900 ribu belum cair dan jadwalnya belum pasti (rencana Nov-Des); rapikan data upah BPJS, waspadai tautan palsu."
+    "teks": "BSU Rp900 ribu belum cair dan jadwalnya belum pasti; rapikan data upah BPJS dan waspadai tautan palsu."
    }
   ],
-  "ringkasan": "UMK Jatim 2027 resmi ditetapkan 25 November lewat Kepgub No. 100.3.3.1/778/013/2026 (Plt Gubernur Emil Dardak): UMK Tuban Rp3.413.111 (naik ~5%), Surabaya tertinggi Rp5.659.011,72, daerah terendah setara UMP Rp2,73 juta, berlaku 1 Januari 2027. HR pabrik Widang/Tuban perlu mengunci angka payroll Januari ke Rp3.413.111.",
-  "terakhirUpdate": "2026-11-25T09:30:00+07:00"
+  "ringkasan": "Tidak ada regulasi baru sejak penetapan UMK 2027 (25 November). Fokus sekarang bergeser ke UMSK Jatim 2027 yang masih ditunggu dengan batas 30 November — periksa apakah sektor pabrik di Tuban/Gresik termasuk. UMK Tuban 2027 Rp3.413.111 sudah final untuk payroll Januari.",
+  "terakhirUpdate": "2026-11-26T09:00:00+07:00"
  }
 }
