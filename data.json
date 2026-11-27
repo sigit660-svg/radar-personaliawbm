@@ -766,7 +766,7 @@
   },
   {
    "judul": "Batas penetapan UMSK 2027",
-   "keterangan": "UMSK (upah minimum sektoral) 2027 ditetapkan terpisah dari UMK, dengan batas sekitar 30 November. Per 26 November, UMSK Jatim 2027 belum diumumkan; sejumlah media menyebut nasib UMSK (termasuk Tuban) masih menunggu keputusan. Cek apakah ada sektor di Gresik/Tuban yang mendapat UMSK agar upah sektor itu tidak di bawah ketentuan.",
+   "keterangan": "UMSK (upah minimum sektoral) 2027 ditetapkan terpisah dari UMK, dengan batas sekitar 30 November (tinggal 3 hari). Per 27 November, UMSK Jatim 2027 belum diumumkan; sebagai acuan, UMSK 2026 mencakup 11 daerah termasuk Tuban (sektor semen, pembangkit listrik, pengilangan BBM) dan Gresik. Cek apakah sektor pabrik di Gresik/Tuban mendapat UMSK agar upah sektor itu tidak di bawah ketentuan.",
    "tanggal": "2026-11-30",
    "id": "penetapan-umsk-2027"
   },
@@ -806,12 +806,12 @@
    {
     "level": "sedang",
     "ref": "agenda:penetapan-umsk-2027",
-    "teks": "UMSK sektoral Jatim 2027 ditunggu paling lambat 30 November; cek apakah sektor pabrik Tuban/Gresik dapat UMSK agar upah tidak kurang."
+    "teks": "UMSK sektoral Jatim 2027 ditunggu paling lambat 30 November (3 hari lagi); cek apakah sektor pabrik Tuban/Gresik dapat UMSK agar upah tidak kurang."
    },
    {
     "level": "sedang",
     "ref": "regulasi:uu-pelindungan-ketenagakerjaan-2026",
-    "teks": "UU 27/2026 berlaku dengan transisi 1 tahun; cocokkan pasal PKWT, pesangon, dan PHK sebelum ubah kebijakan."
+    "teks": "UU 27/2026 berlaku dengan transisi 1 tahun; cocokkan pasal PKWT, pesangon, dan PHK. PP turunan belum terbit, pantau JDIH Kemnaker."
    },
    {
     "level": "sedang",
@@ -829,7 +829,7 @@
     "teks": "BSU Rp900 ribu belum cair dan jadwalnya belum pasti; rapikan data upah BPJS dan waspadai tautan palsu."
    }
   ],
-  "ringkasan": "Tidak ada regulasi baru sejak penetapan UMK 2027 (25 November). Fokus sekarang bergeser ke UMSK Jatim 2027 yang masih ditunggu dengan batas 30 November — periksa apakah sektor pabrik di Tuban/Gresik termasuk. UMK Tuban 2027 Rp3.413.111 sudah final untuk payroll Januari.",
-  "terakhirUpdate": "2026-11-26T09:00:00+07:00"
+  "ringkasan": "Tidak ada regulasi baru sejak penetapan UMK 2027 (25 November). Batas penetapan UMSK sektoral Jatim 2027 tinggal 3 hari lagi (30 November) dan belum diumumkan — pantau apakah sektor pabrik di Tuban/Gresik termasuk. UMK Tuban 2027 Rp3.413.111 sudah final untuk payroll Januari.",
+  "terakhirUpdate": "2026-11-27T09:00:00+07:00"
  }
 }
